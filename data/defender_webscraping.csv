@@ -1,0 +1,822 @@
+player_id,current_club_id,first_name,last_name,name,position,sub_position,age,market_value_in_eur,current_club_name,competition_name,Apps,Mins,Tackles,Inter,Fouls,Offsides,Clear,Drb,Blocks,OwnG,Rating
+495666,11,William,Saliba,William Saliba,Defender,Centre-Back,23,80000000,Arsenal Football Club,premier-league,15,1290.0,2.4,0.7,0.9,0.3,2.9,0.3,0.3,-,6.88
+258004,281,Rúben,Dias,Rúben Dias,Defender,Centre-Back,27,75000000,Manchester City Football Club,premier-league,12(1),1086.0,0.7,0.9,0.5,0.8,2.5,0.1,0.7,1,6.58
+475959,281,Josko,Gvardiol,Josko Gvardiol,Defender,Centre-Back,22,75000000,Manchester City Football Club,premier-league,14(1),1303.0,1.8,1.3,0.5,0.3,2.5,0.3,0.5,-,7.09
+314353,31,Trent,Alexander-Arnold,Trent Alexander-Arnold,Defender,Right-Back,26,75000000,Liverpool Football Club,premier-league,13(1),1047.0,2.5,0.6,0.3,0.3,0.9,1.6,0.4,-,7.01
+435338,11,Gabriel,Magalhães,Gabriel Magalhães,Defender,Centre-Back,27,75000000,Arsenal Football Club,premier-league,14,1180.0,0.8,0.5,0.6,0.2,3,0.3,1.4,-,6.96
+315853,46,Alessandro,Bastoni,Alessandro Bastoni,Defender,Centre-Back,25,70000000,Football Club Internazionale Milano S.p.A.,serie-a,14,1064.0,1.5,0.6,1.4,0.1,1.0,0.4,0.3,-,6.99
+480267,131,Ronald,Araujo,Ronald Araujo,Defender,Centre-Back,25,70000000,Futbol Club Barcelona,laliga,,,,,,,,,,,
+355915,148,Cristian,Romero,Cristian Romero,Defender,Centre-Back,26,65000000,Tottenham Hotspur Football Club,premier-league,12,976.0,2.3,1.1,0.6,0.9,2.4,0.6,0.3,-,7.01
+398073,583,Achraf,Hakimi,Achraf Hakimi,Defender,Right-Back,26,60000000,Paris Saint-Germain Football Club,ligue-1,14,1209.0,2.3,1.4,0.5,0.1,0.6,0.9,-,-,7.57
+401530,418,Éder,Militão,Éder Militão,Defender,Centre-Back,26,60000000,Real Madrid Club de Fútbol,laliga,11(1),940.0,1.6,1.0,1.5,0.4,2.8,0.4,0.7,-,7.02
+339808,5,Theo,Hernández,Theo Hernández,Defender,Left-Back,27,60000000,Associazione Calcio Milan,serie-a,10(2),936.0,1.0,1,0.3,0.2,1.7,0.4,0.4,-,6.86
+614258,631,Levi,Colwill,Levi Colwill,Defender,Centre-Back,21,55000000,Chelsea Football Club,premier-league,15,1350.0,0.8,1.1,1.2,1.1,3.2,0.3,1.1,-,6.67
+923831,985,Leny,Yoro,Leny Yoro,Defender,Centre-Back,19,55000000,Manchester United Football Club,premier-league,1(2),108.0,1.3,0.7,-,-,1,0.3,0.3,-,6.17
+616341,583,Nuno,Mendes,Nuno Mendes,Defender,Left-Back,22,55000000,Paris Saint-Germain Football Club,ligue-1,8(1),634.0,1.4,0.6,0.4,0.4,1.2,0.7,0.6,-,6.93
+557459,148,Micky,van de Ven,Micky van de Ven,Defender,Centre-Back,23,55000000,Tottenham Hotspur Football Club,premier-league,,,,,,,,,,,
+335721,11,Ben,White,Ben White,Defender,Right-Back,27,55000000,Arsenal Football Club,premier-league,7(2),694.0,1.1,1.2,0.8,0.4,2.3,1.3,0.6,-,6.64
+411975,131,Jules,Koundé,Jules Koundé,Defender,Right-Back,26,55000000,Futbol Club Barcelona,laliga,16(2),1435.0,2.2,0.4,0.7,0.9,1.9,0.6,0.2,-,6.84
+357119,31,Ibrahima,Konaté,Ibrahima Konaté,Defender,Centre-Back,25,50000000,Liverpool Football Club,premier-league,11(1),976.0,1.2,0.3,0.8,0.4,3.3,0.3,0.4,-,6.85
+424204,27,Alphonso,Davies,Alphonso Davies,Defender,Left-Back,24,50000000,FC Bayern München,bundesliga,11(1),1006.0,1.5,0.7,0.5,0.3,1.2,0.2,0.1,-,7.08
+480762,985,Lisandro,Martínez,Lisandro Martínez,Defender,Centre-Back,26,50000000,Manchester United Football Club,premier-league,13,1157.0,1.8,2.0,0.9,0.3,2.6,0.8,0.3,-,6.81
+198116,46,Federico,Dimarco,Federico Dimarco,Defender,Left-Back,27,50000000,Football Club Internazionale Milano S.p.A.,serie-a,14,1114.0,0.6,0.6,0.6,-,0.8,0.2,0.1,-,7.22
+344695,27,Dayot,Upamecano,Dayot Upamecano,Defender,Centre-Back,26,45000000,FC Bayern München,bundesliga,13,1162.0,1.4,1.5,1.2,0.2,2.2,0.7,0.5,-,7.18
+193082,15,Alejandro,Grimaldo,Alejandro Grimaldo,Defender,Left-Back,29,45000000,Bayer 04 Leverkusen Fußball,bundesliga,,,,,,,,,,,
+392757,873,Marc,Guéhi,Marc Guéhi,Defender,Centre-Back,24,45000000,Crystal Palace Football Club,premier-league,16,1440.0,1.3,0.6,0.5,0.1,4.9,0.4,0.9,2,6.77
+420243,11,Jurrien,Timber,Jurrien Timber,Defender,Left-Back,23,45000000,Arsenal Football Club,premier-league,,,,,,,,,,,
+564545,15,Edmond,Tapsoba,Edmond Tapsoba,Defender,Centre-Back,25,45000000,Bayer 04 Leverkusen Fußball,bundesliga,14,1256.0,1.8,0.9,1.2,0.2,2.8,0.9,0.4,-,6.67
+361093,762,Sven,Botman,Sven Botman,Defender,Centre-Back,24,45000000,Newcastle United Football Club,premier-league,,,,,,,,,,,
+503482,27,Min-jae,Kim,Min-jae Kim,Defender,Centre-Back,28,45000000,FC Bayern München,bundesliga,,,,,,,,,,,
+502821,11,Riccardo,Calafiori,Riccardo Calafiori,Defender,Left-Back,22,45000000,Arsenal Football Club,premier-league,6(2),509.0,1.9,0.6,1.1,0.1,2.1,0.8,0.5,-,6.87
+353366,46,Benjamin,Pavard,Benjamin Pavard,Defender,Centre-Back,28,45000000,Football Club Internazionale Milano S.p.A.,serie-a,8(2),763.0,1.6,1,1.2,0.1,1.7,0.4,0.5,-,6.81
+399776,405,Pau,Torres,Pau Torres,Defender,Centre-Back,27,45000000,Aston Villa Football Club,premier-league,15,1350.0,1.0,0.4,0.4,0.8,2.5,0.2,0.4,-,6.37
+326031,985,Matthijs,de Ligt,Matthijs de Ligt,Defender,Centre-Back,25,45000000,Manchester United Football Club,premier-league,,,,,,,,,,,
+553875,148,Pedro,Porro,Pedro Porro,Defender,Right-Back,25,45000000,Tottenham Hotspur Football Club,premier-league,14(2),1348.0,1.8,1.1,0.6,0.2,2.3,1.0,0.6,-,6.94
+571604,800,Giorgio,Scalvini,Giorgio Scalvini,Defender,Centre-Back,21,45000000,Atalanta Bergamasca Calcio S.p.a.,serie-a,0(2),9.0,0.5,-,-,-,0.5,-,-,-,6.1
+556385,148,Destiny,Udogie,Destiny Udogie,Defender,Left-Back,22,45000000,Tottenham Hotspur Football Club,premier-league,16,1307.0,2.8,1,1.3,0.1,1.3,0.7,0.1,-,6.78
+661053,29,Jarrad,Branthwaite,Jarrad Branthwaite,Defender,Centre-Back,22,42000000,Everton Football Club,premier-league,6(2),546.0,1.4,1.3,-,0.4,3.3,0.3,0.3,-,6.64
+388198,16,Nico,Schlotterbeck,Nico Schlotterbeck,Defender,Centre-Back,25,40000000,Borussia Dortmund,bundesliga,13,1153.0,2.3,1.2,1,1,3.3,0.8,0.8,-,6.93
+659813,15,Piero,Hincapié,Piero Hincapié,Defender,Centre-Back,22,40000000,Bayer 04 Leverkusen Fußball,bundesliga,12(2),1141.0,1.6,1.2,1.1,0.5,1.9,0.6,0.6,-,6.67
+701057,281,Rico,Lewis,Rico Lewis,Defender,Right-Back,20,40000000,Manchester City Football Club,premier-league,12(2),1026.0,1.6,0.7,0.5,0.1,1.4,0.2,0.1,-,6.52
+962110,131,Pau,Cubarsí,Pau Cubarsí,Defender,Centre-Back,17,40000000,Futbol Club Barcelona,laliga,16(2),1401.0,0.7,0.5,0.7,1.4,2.2,0.4,0.2,-,6.71
+284730,281,Manuel,Akanji,Manuel Akanji,Defender,Centre-Back,29,40000000,Manchester City Football Club,premier-league,12,1008.0,1.0,0.4,0.8,0.8,2.5,0.4,0.3,-,6.51
+618472,23826,Castello,Lukeba,Castello Lukeba,Defender,Centre-Back,22,40000000,RasenBallsport Leipzig,bundesliga,9,734.0,1.9,0.4,0.6,0.2,3.1,0.3,0.7,-,6.78
+661171,583,Willian,Pacho,Willian Pacho,Defender,Centre-Back,23,40000000,Paris Saint-Germain Football Club,ligue-1,13(1),1197.0,2.4,1.8,0.8,1,3.3,0.4,0.9,-,7.05
+357147,985,Diogo,Dalot,Diogo Dalot,Defender,Right-Back,25,40000000,Manchester United Football Club,premier-league,16,1407.0,2.4,1.4,1.4,0.3,1.8,0.6,0.4,-,6.87
+351809,13,Robin,Le Normand,Robin Le Normand,Defender,Centre-Back,28,40000000,Club Atlético de Madrid S.A.D.,laliga,,,,,,,,,,,
+636688,131,Alejandro,Balde,Alejandro Balde,Defender,Left-Back,21,40000000,Futbol Club Barcelona,laliga,14(2),1201.0,0.5,0.3,0.4,0.9,0.5,0.2,0.3,-,6.75
+659089,989,Ilya,Zabarnyi,Ilya Zabarnyi,Defender,Centre-Back,22,38000000,Association Football Club Bournemouth,premier-league,,,,,,,,,,,
+525247,379,Maximilian,Kilman,Maximilian Kilman,Defender,Centre-Back,27,35000000,West Ham United Football Club,premier-league,16,1440.0,1,1.3,0.5,0.6,5.6,0.3,1.3,-,6.81
+361914,681,Nayef,Aguerd,Nayef Aguerd,Defender,Centre-Back,28,35000000,Real Sociedad de Fútbol S.A.D.,laliga,13,1102.0,1.5,0.7,0.5,0.8,3.5,0.5,0.5,-,6.95
+578391,543,Rayan,Aït-Nouri,Rayan Aït-Nouri,Defender,Left-Back,23,35000000,Wolverhampton Wanderers Football Club,premier-league,16,1374.0,2.5,0.8,1.1,0.2,2.1,0.7,0.3,-,6.83
+413403,405,Ezri,Konsa,Ezri Konsa,Defender,Centre-Back,27,35000000,Aston Villa Football Club,premier-league,14,1182.0,1.4,0.7,0.1,0.4,2.6,0.1,0.2,-,6.6
+503981,762,Tino,Livramento,Tino Livramento,Defender,Right-Back,22,35000000,Newcastle United Football Club,premier-league,13(3),1133.0,1.3,0.8,0.3,-,2.4,0.6,0.4,-,6.53
+620322,631,Malo,Gusto,Malo Gusto,Defender,Right-Back,21,35000000,Chelsea Football Club,premier-league,11(2),959.0,2.2,0.9,0.8,0.2,1.4,1,0.4,-,6.6
+177476,281,Nathan,Aké,Nathan Aké,Defender,Centre-Back,29,35000000,Manchester City Football Club,premier-league,3(2),300.0,1,0.6,0.4,0.2,1,-,0.2,-,6.3
+386446,6195,Alessandro,Buongiorno,Alessandro Buongiorno,Defender,Centre-Back,25,35000000,Società Sportiva Calcio Napoli,serie-a,15,1350.0,1.7,1.6,0.5,0.3,2.9,0.2,0.9,-,7.14
+260827,931,Joachim,Andersen,Joachim Andersen,Defender,Centre-Back,28,32000000,Fulham Football Club,premier-league,1,90.0,1.0,-,2,-,7,1,-,-,6.25
+485585,405,Ian,Maatsen,Ian Maatsen,Defender,Left-Back,22,32000000,Aston Villa Football Club,premier-league,2(11),284.0,0.8,0.2,0.2,0.2,0.4,0.2,-,-,6.29
+281963,583,Lucas,Hernández,Lucas Hernández,Defender,Left-Back,28,32000000,Paris Saint-Germain Football Club,ligue-1,0(2),51.0,1.5,0.5,0.5,-,-,1.5,-,-,6.42
+186590,281,John,Stones,John Stones,Defender,Centre-Back,30,32000000,Manchester City Football Club,premier-league,3(4),285.0,0.7,0.4,0.3,0.1,1.1,-,-,-,6.42
+605184,379,Jean-Clair,Todibo,Jean-Clair Todibo,Defender,Centre-Back,25,32000000,West Ham United Football Club,premier-league,7(4),651.0,1.4,0.7,0.5,0.2,3.4,0.1,0.5,-,6.35
+331560,11,Takehiro,Tomiyasu,Takehiro Tomiyasu,Defender,Right-Back,26,32000000,Arsenal Football Club,premier-league,0(1),6.0,-,-,-,-,1.0,-,-,-,6.46
+303254,5,Fikayo,Tomori,Fikayo Tomori,Defender,Centre-Back,27,32000000,Associazione Calcio Milan,serie-a,6(2),551.0,1,0.9,0.3,1.5,2,0.4,0.6,-,6.52
+576314,1237,Jan Paul,van Hecke,Jan Paul van Hecke,Defender,Centre-Back,24,32000000,Brighton and Hove Albion Football Club,premier-league,,,,,,,,,,,
+420210,23826,Lutsharel,Geertruida,Lutsharel Geertruida,Defender,Right-Back,24,32000000,RasenBallsport Leipzig,bundesliga,9(2),837.0,1.8,0.9,0.9,0.1,2.5,0.9,0.1,-,6.56
+340456,985,Noussair,Mazraoui,Noussair Mazraoui,Defender,Right-Back,27,32000000,Manchester United Football Club,premier-league,14(2),1164.0,3.3,0.9,1.3,-,2.1,1.0,0.3,-,6.96
+203853,11,Oleksandr,Zinchenko,Oleksandr Zinchenko,Defender,Left-Back,28,30000000,Arsenal Football Club,premier-league,2(4),236.0,0.3,0.5,1.2,0.2,0.8,0.5,-,-,6.31
+646750,1049,Cristhian,Mosquera,Cristhian Mosquera,Defender,Centre-Back,20,30000000,Valencia Club de Fútbol S. A. D.,laliga,16,1430.0,0.8,1.2,0.5,1.1,3.1,0.3,0.6,-,6.38
+475411,631,Wesley,Fofana,Wesley Fofana,Defender,Centre-Back,24,30000000,Chelsea Football Club,premier-league,12,1017.0,1.1,1,1.6,0.7,3.9,0.7,0.8,-,6.75
+196948,131,Andreas,Christensen,Andreas Christensen,Defender,Centre-Back,28,30000000,Futbol Club Barcelona,laliga,0(1),26.0,-,-,1,1,2,-,-,-,6.1
+459658,506,Andrea,Cambiaso,Andrea Cambiaso,Defender,Left-Back,24,30000000,Juventus Football Club,serie-a,14(1),1185.0,1.5,0.5,0.9,-,0.6,0.5,0.1,-,6.91
+386047,631,Axel,Disasi,Axel Disasi,Defender,Centre-Back,26,30000000,Chelsea Football Club,premier-league,2(1),185.0,0.3,0.3,-,1,2.0,0.7,0.3,-,6.81
+196357,15,Jonathan,Tah,Jonathan Tah,Defender,Centre-Back,28,30000000,Bayer 04 Leverkusen Fußball,bundesliga,14,1260.0,0.4,1.1,0.4,0.6,3.3,0.1,0.5,-,6.77
+872171,583,Lucas,Beraldo,Lucas Beraldo,Defender,Centre-Back,21,30000000,Paris Saint-Germain Football Club,ligue-1,,,,,,,,,,,
+349599,1237,Pervis,Estupiñán,Pervis Estupiñán,Defender,Left-Back,26,30000000,Brighton and Hove Albion Football Club,premier-league,10(3),973.0,2.1,1.0,1.2,0.2,2.0,0.5,0.2,-,6.8
+284857,631,Marc,Cucurella,Marc Cucurella,Defender,Left-Back,26,30000000,Chelsea Football Club,premier-league,13(2),1178.0,1.7,0.9,1,0.2,1.9,0.9,0.3,-,6.5
+644771,800,Odilon,Kossounou,Odilon Kossounou,Defender,Centre-Back,23,30000000,Atalanta Bergamasca Calcio S.p.a.,serie-a,6(3),540.0,0.9,0.6,1.0,0.1,1,0.3,0.2,-,6.42
+353892,27,Hiroki,Ito,Hiroki Ito,Defender,Centre-Back,25,30000000,FC Bayern München,bundesliga,,,,,,,,,,,
+369316,1237,Ferdi,Kadıoğlu,Ferdi Kadıoğlu,Defender,Left-Back,25,30000000,Brighton and Hove Albion Football Club,premier-league,,,,,,,,,,,
+524000,621,Dani,Vivian,Dani Vivian,Defender,Centre-Back,25,30000000,Athletic Club Bilbao,laliga,13(2),1224.0,1.1,1,1.1,0.5,4.2,0.2,0.3,-,6.91
+472423,631,Reece,James,Reece James,Defender,Right-Back,25,30000000,Chelsea Football Club,premier-league,3(1),241.0,0.5,0.8,0.3,0.8,1,0.5,0.5,-,6.55
+463603,631,Benoît,Badiashile,Benoît Badiashile,Defender,Centre-Back,23,28000000,Chelsea Football Club,premier-league,2(2),248.0,1.5,1.5,1.5,0.3,1.5,-,0.5,-,6.52
+469050,1148,Nathan,Collins,Nathan Collins,Defender,Centre-Back,23,28000000,Brentford Football Club,premier-league,16,1440.0,1.3,0.9,0.8,0.6,5.1,0.3,1.7,-,7.02
+349701,931,Antonee,Robinson,Antonee Robinson,Defender,Left-Back,27,28000000,Fulham Football Club,premier-league,16,1440.0,3.1,1.9,0.8,0.3,3.3,1.3,0.2,-,7.21
+424042,13,Nahuel,Molina,Nahuel Molina,Defender,Right-Back,26,28000000,Club Atlético de Madrid S.A.D.,laliga,9(2),742.0,1.7,0.6,0.5,-,1.5,1.2,-,-,6.67
+425918,11,Jakub,Kiwior,Jakub Kiwior,Defender,Centre-Back,24,28000000,Arsenal Football Club,premier-league,2(6),323.0,0.5,0.1,0.6,-,2,0.3,0.3,-,6.23
+404842,29,Vitaliy,Mykolenko,Vitaliy Mykolenko,Defender,Left-Back,25,28000000,Everton Football Club,premier-league,,,,,,,,,,,
+139208,31,Virgil,van Dijk,Virgil van Dijk,Defender,Centre-Back,33,28000000,Liverpool Football Club,premier-league,,,,,,,,,,,
+425334,405,Matty,Cash,Matty Cash,Defender,Right-Back,27,28000000,Aston Villa Football Club,premier-league,9(1),743.0,2.2,1.3,0.9,0.3,1.8,0.6,0.4,-,6.66
+256178,31,Joe,Gomez,Joe Gomez,Defender,Centre-Back,27,28000000,Liverpool Football Club,premier-league,3(3),302.0,1.5,0.8,0.2,0.3,1.3,0.8,1,-,6.45
+483046,27,Josip,Stanisic,Josip Stanisic,Defender,Right-Back,24,28000000,FC Bayern München,bundesliga,,,,,,,,,,,
+730861,989,Milos,Kerkez,Milos Kerkez,Defender,Left-Back,21,28000000,Association Football Club Bournemouth,premier-league,16,1370.0,1.4,1,0.8,0.2,2.4,0.4,0.4,-,6.73
+413507,703,Nikola,Milenković,Nikola Milenković,Defender,Centre-Back,27,25000000,Nottingham Forest Football Club,premier-league,,,,,,,,,,,
+463605,1082,Bafodé,Diakité,Bafodé Diakité,Defender,Centre-Back,23,25000000,Lille Olympique Sporting Club,ligue-1,15,1350.0,1,1.1,1.5,0.5,2.7,0.4,0.4,-,6.79
+441986,46,Yann,Bisseck,Yann Bisseck,Defender,Centre-Back,24,25000000,Football Club Internazionale Milano S.p.A.,serie-a,7(3),608.0,0.5,0.5,0.4,0.1,2.1,0.1,0.2,-,6.51
+568559,148,Radu,Drăgușin,Radu Drăgușin,Defender,Centre-Back,22,25000000,Tottenham Hotspur Football Club,premier-league,,,,,,,,,,,
+596446,677,Leif,Davis,Leif Davis,Defender,Left-Back,25,25000000,Ipswich Town Football Club,premier-league,16,1440.0,1.4,0.8,0.9,0.3,2.6,0.8,0.1,-,6.78
+234803,31,Andrew,Robertson,Andrew Robertson,Defender,Left-Back,30,25000000,Liverpool Football Club,premier-league,,,,,,,,,,,
+670858,762,Lewis,Hall,Lewis Hall,Defender,Left-Back,20,25000000,Newcastle United Football Club,premier-league,13(3),1230.0,1.9,0.9,0.3,0.3,2.1,1.3,0.8,-,6.92
+922693,148,Archie,Gray,Archie Gray,Defender,Right-Back,18,25000000,Tottenham Hotspur Football Club,premier-league,2(7),238.0,0.7,0.2,0.2,0.1,0.3,0.3,0.3,-,6.32
+263236,826,Kevin,Danso,Kevin Danso,Defender,Centre-Back,26,25000000,Racing Club de Lens,ligue-1,10,900.0,1.6,1.8,1.9,0.7,5.4,0.2,1.8,-,7.12
+256448,12,Gianluca,Mancini,Gianluca Mancini,Defender,Centre-Back,28,25000000,Associazione Sportiva Roma,serie-a,15(1),1300.0,1.1,1.0,1.1,0.3,1.5,0.1,0.4,-,6.53
+627228,16,Yan,Couto,Yan Couto,Defender,Right-Back,22,25000000,Borussia Dortmund,bundesliga,3(5),379.0,1.1,0.6,0.5,0.3,1.5,0.5,-,-,6.29
+648779,162,Wilfried,Singo,Wilfried Singo,Defender,Centre-Back,24,25000000,Association sportive de Monaco Football Club,ligue-1,12(3),1095.0,1.4,1.7,1.4,0.3,3.3,0.3,0.1,-,6.79
+525299,12321,Miguel,Gutiérrez,Miguel Gutiérrez,Defender,Left-Back,23,25000000,Girona Fútbol Club S. A. D.,laliga,16,1432.0,1.6,0.6,0.7,0.2,1,0.6,0.2,-,6.84
+503977,180,Taylor,Harwood-Bellis,Taylor Harwood-Bellis,Defender,Centre-Back,22,25000000,Southampton Football Club,premier-league,14(1),1221.0,0.6,0.9,1.0,0.2,3.7,0.3,1.5,-,6.4
+318204,23826,David,Raum,David Raum,Defender,Left-Back,26,25000000,RasenBallsport Leipzig,bundesliga,6,488.0,1.8,0.3,0.3,-,1.5,0.7,0.2,-,7.19
+474800,826,Facundo,Medina,Facundo Medina,Defender,Centre-Back,25,25000000,Racing Club de Lens,ligue-1,14,1233.0,2,1.3,0.9,0.2,2.1,0.6,0.3,-,6.7
+371149,12,Evan,Ndicka,Evan Ndicka,Defender,Centre-Back,25,25000000,Associazione Sportiva Roma,serie-a,16,1440.0,0.9,1.3,1.3,0.4,3.3,0.1,0.9,-,6.63
+730893,873,Tyrick,Mitchell,Tyrick Mitchell,Defender,Left-Back,25,25000000,Crystal Palace Football Club,premier-league,16,1388.0,2.6,0.4,0.6,0.1,2,0.7,0.3,-,6.74
+86202,418,Antonio,Rüdiger,Antonio Rüdiger,Defender,Centre-Back,31,25000000,Real Madrid Club de Fútbol,laliga,16(1),1447.0,0.7,0.4,0.5,0.2,3.8,0.1,0.6,-,6.77
+509022,506,Federico,Gatti,Federico Gatti,Defender,Centre-Back,26,25000000,Juventus Football Club,serie-a,13(1),1122.0,0.9,0.6,0.9,0.3,2.1,0.3,0.7,-,6.82
+493003,873,Daniel,Muñoz,Daniel Muñoz,Defender,Right-Back,28,25000000,Crystal Palace Football Club,premier-league,16,1357.0,3.5,1,1.4,-,2.4,1.2,0.1,-,6.96
+193004,16,Waldemar,Anton,Waldemar Anton,Defender,Centre-Back,28,24000000,Borussia Dortmund,bundesliga,10,783.0,1.5,0.7,0.9,0.4,3.1,0.2,1,-,6.85
+469781,989,Marcos,Senesi,Marcos Senesi,Defender,Centre-Back,27,24000000,Association Football Club Bournemouth,premier-league,11,921.0,3,1,1.5,0.2,3.8,1.2,0.5,-,6.71
+823486,430,Michael,Kayode,Michael Kayode,Defender,Right-Back,20,22000000,Associazione Calcio Fiorentina,serie-a,0(4),34.0,0.3,-,-,-,1,-,0.3,-,6.33
+250845,13,José María,Giménez,José María Giménez,Defender,Centre-Back,29,22000000,Club Atlético de Madrid S.A.D.,laliga,,,,,,,,,,,
+291417,418,Ferland,Mendy,Ferland Mendy,Defender,Left-Back,29,22000000,Real Madrid Club de Fútbol,laliga,9(2),765.0,1.4,0.8,0.5,0.1,0.5,0.3,0.3,-,6.33
+632349,31,Jarell,Quansah,Jarell Quansah,Defender,Centre-Back,21,22000000,Liverpool Football Club,premier-league,2(2),173.0,2,0.8,1.3,0.5,2.3,0.3,0.5,-,6.61
+355628,681,Igor,Zubeldia,Igor Zubeldia,Defender,Centre-Back,27,22000000,Real Sociedad de Fútbol S.A.D.,laliga,15,1297.0,1.1,0.9,1.5,0.4,3.5,0.5,0.9,-,6.71
+591916,621,Aitor,Paredes,Aitor Paredes,Defender,Centre-Back,24,22000000,Athletic Club Bilbao,laliga,11,937.0,0.7,1.4,1.3,0.6,5.5,0.5,0.5,-,6.58
+591949,1148,Aaron,Hickey,Aaron Hickey,Defender,Right-Back,22,22000000,Brentford Football Club,premier-league,,,,,,,,,,,
+477758,379,Aaron,Wan-Bissaka,Aaron Wan-Bissaka,Defender,Right-Back,27,22000000,West Ham United Football Club,premier-league,14(1),1265.0,1.8,1.7,0.8,0.1,2.7,0.2,0.3,-,6.92
+521964,5,Malick,Thiaw,Malick Thiaw,Defender,Centre-Back,23,20000000,Associazione Calcio Milan,serie-a,9,810.0,1.1,0.9,0.9,0.6,3.2,0.2,0.4,1,6.74
+221322,1049,José,Gayà,José Gayà,Defender,Left-Back,29,20000000,Valencia Club de Fútbol S. A. D.,laliga,4(1),325.0,1.4,1,0.6,-,1.6,0.8,-,-,6.68
+368891,24,Arthur,Theate,Arthur Theate,Defender,Centre-Back,24,20000000,Eintracht Frankfurt Fußball AG,bundesliga,13,1135.0,1.4,1.3,0.5,0.5,4.3,0.8,0.7,-,6.67
+415912,379,Konstantinos,Mavropanos,Konstantinos Mavropanos,Defender,Centre-Back,27,20000000,West Ham United Football Club,premier-league,10(3),954.0,1.4,1.5,0.5,0.5,3.7,0.3,0.9,-,6.71
+321528,46,Denzel,Dumfries,Denzel Dumfries,Defender,Right-Back,28,20000000,Football Club Internazionale Milano S.p.A.,serie-a,6(6),655.0,0.6,0.2,1.8,-,0.7,0.5,-,-,6.78
+316125,631,Ben,Chilwell,Ben Chilwell,Defender,Left-Back,28,20000000,Chelsea Football Club,premier-league,,,,,,,,,,,
+341051,180,Kyle,Walker-Peters,Kyle Walker-Peters,Defender,Right-Back,27,20000000,Southampton Football Club,premier-league,14,1251.0,1.4,0.8,0.9,0.2,2.4,0.6,0.5,-,6.5
+503075,800,Isak,Hien,Isak Hien,Defender,Centre-Back,25,20000000,Atalanta Bergamasca Calcio S.p.a.,serie-a,13,1018.0,1.9,1.2,0.8,0.6,2.6,0.5,0.6,-,6.85
+624258,31,Conor,Bradley,Conor Bradley,Defender,Right-Back,21,20000000,Liverpool Football Club,premier-league,1(6),231.0,0.4,0.3,0.6,-,1.1,0.9,-,-,6.26
+434224,873,Maxence,Lacroix,Maxence Lacroix,Defender,Centre-Back,24,20000000,Crystal Palace Football Club,premier-league,13,1170.0,2.1,1.8,1.1,0.8,5.2,0.6,0.5,-,6.9
+258878,631,Tosin,Adarabioyo,Tosin Adarabioyo,Defender,Centre-Back,27,20000000,Chelsea Football Club,premier-league,4(2),352.0,0.8,0.5,0.3,0.7,2.7,0.2,0.3,-,6.68
+693095,677,Jacob,Greaves,Jacob Greaves,Defender,Centre-Back,24,20000000,Ipswich Town Football Club,premier-league,8,720.0,2.1,1.1,0.5,0.4,6.0,0.6,0.9,-,6.71
+202591,23826,Benjamin,Henrichs,Benjamin Henrichs,Defender,Right-Back,27,20000000,RasenBallsport Leipzig,bundesliga,9(5),845.0,2.1,1.0,0.9,0.1,1.6,0.7,0.2,-,6.72
+466794,131,Eric,García,Eric García,Defender,Centre-Back,23,20000000,Futbol Club Barcelona,laliga,4(6),520.0,1.2,0.4,0.7,0.3,1.1,0.2,0.3,-,6.59
+183288,985,Luke,Shaw,Luke Shaw,Defender,Left-Back,29,20000000,Manchester United Football Club,premier-league,0(2),68.0,1,0.5,-,-,0.5,-,-,-,6.31
+575998,244,Leonardo,Balerdi,Leonardo Balerdi,Defender,Centre-Back,25,20000000,Olympique de Marseille,ligue-1,12,995.0,1.5,1.2,0.8,1.3,2.7,0.8,0.8,1,6.5
+574671,5,Strahinja,Pavlović,Strahinja Pavlović,Defender,Centre-Back,23,20000000,Associazione Calcio Milan,serie-a,,,,,,,,,,,
+730581,368,Loïc,Badé,Loïc Badé,Defender,Centre-Back,24,20000000,Sevilla Fútbol Club S.A.D.,laliga,12(1),1100.0,2,1,0.9,1,4.5,0.3,0.5,-,6.89
+272622,931,Issa,Diop,Issa Diop,Defender,Centre-Back,27,20000000,Fulham Football Club,premier-league,8(3),750.0,1.3,0.2,0.5,0.6,3.7,0.3,0.5,1,6.37
+292808,1003,Wout,Faes,Wout Faes,Defender,Centre-Back,26,20000000,Leicester City Football Club,premier-league,13(2),1210.0,1.2,0.7,0.6,0.3,5.6,1,1.2,-,6.42
+339556,1148,Rico,Henry,Rico Henry,Defender,Left-Back,27,20000000,Brentford Football Club,premier-league,,,,,,,,,,,
+585949,506,Pierre,Kalulu,Pierre Kalulu,Defender,Centre-Back,24,20000000,Juventus Football Club,serie-a,12(1),1077.0,0.8,0.5,0.8,0.2,1.8,0.1,0.6,-,6.55
+370789,16,Julian,Ryerson,Julian Ryerson,Defender,Right-Back,27,20000000,Borussia Dortmund,bundesliga,12,954.0,1.3,1.0,1.3,0.3,0.8,0.6,0.1,-,6.72
+338070,31,Konstantinos,Tsimikas,Konstantinos Tsimikas,Defender,Left-Back,28,20000000,Liverpool Football Club,premier-league,,,,,,,,,,,
+919515,15,Jeanuël,Belocian,Jeanuël Belocian,Defender,Centre-Back,19,20000000,Bayer 04 Leverkusen Fußball,bundesliga,1(3),59.0,0.3,-,0.3,-,0.5,-,-,-,5.96
+890290,989,Dean,Huijsen,Dean Huijsen,Defender,Centre-Back,19,18000000,Association Football Club Bournemouth,premier-league,5(5),520.0,0.7,1.2,0.4,0.3,3.3,0.3,0.5,-,6.64
+281769,12,Mario,Hermoso,Mario Hermoso,Defender,Centre-Back,29,18000000,Associazione Sportiva Roma,serie-a,2(6),246.0,0.3,0.5,0.9,0.1,1.6,0.1,0.1,-,5.95
+618341,398,Mario,Gila,Mario Gila,Defender,Centre-Back,24,18000000,Società Sportiva Lazio S.p.A.,serie-a,13,1103.0,2,0.8,1.1,0.2,3.5,0.6,0.6,1,6.83
+328784,24,Robin,Koch,Robin Koch,Defender,Centre-Back,28,18000000,Eintracht Frankfurt Fußball AG,bundesliga,14,1243.0,0.6,0.9,0.9,1.1,5.0,0.4,1.2,-,6.69
+328658,1148,Kristoffer,Ajer,Kristoffer Ajer,Defender,Centre-Back,26,18000000,Brentford Football Club,premier-league,8(1),654.0,0.8,0.7,0.9,-,1.9,0.7,0.1,-,6.31
+541231,1148,Sepp,van den Berg,Sepp van den Berg,Defender,Centre-Back,23,18000000,Brentford Football Club,premier-league,,,,,,,,,,,
+484988,1050,Logan,Costa,Logan Costa,Defender,Centre-Back,23,18000000,Villarreal Club de Fútbol S.A.D.,laliga,1,90.0,2,2,-,-,4,-,2,-,7.73
+433984,1025,Sam,Beukema,Sam Beukema,Defender,Centre-Back,26,18000000,Bologna Football Club 1909,serie-a,14(1),1305.0,1,0.9,0.9,0.4,2.6,0.7,0.8,-,6.7
+475413,27,Sacha,Boey,Sacha Boey,Defender,Right-Back,24,18000000,FC Bayern München,bundesliga,3(3),280.0,1.7,0.2,0.5,-,0.5,0.3,-,-,6.52
+480116,762,Lloyd,Kelly,Lloyd Kelly,Defender,Centre-Back,26,18000000,Newcastle United Football Club,premier-league,4(4),298.0,0.6,0.1,0.5,0.3,1.8,-,0.5,-,6.32
+282660,79,Maximilian,Mittelstädt,Maximilian Mittelstädt,Defender,Left-Back,27,17000000,Verein für Bewegungsspiele Stuttgart 1893,bundesliga,12(2),1083.0,2.0,1,0.8,0.4,2.4,0.7,0.6,-,7.16
+413565,1025,Jhon,Lucumí,Jhon Lucumí,Defender,Centre-Back,26,17000000,Bologna Football Club 1909,serie-a,10(2),934.0,1.3,0.4,0.8,0.3,2.6,0.5,0.7,-,6.46
+387047,89,Danilho,Doekhi,Danilho Doekhi,Defender,Centre-Back,26,17000000,1. Fußballclub Union Berlin,bundesliga,14,1260.0,1.3,1.5,1.4,0.2,2.9,0.2,0.5,-,6.71
+503680,703,Neco,Williams,Neco Williams,Defender,Right-Back,23,17000000,Nottingham Forest Football Club,premier-league,6(7),644.0,1.8,0.4,0.5,-,1.9,0.7,0.2,-,6.58
+418543,416,Perr,Schuurs,Perr Schuurs,Defender,Centre-Back,25,17000000,Torino Calcio,serie-a,,,,,,,,,,,
+461883,931,Calvin,Bassey,Calvin Bassey,Defender,Centre-Back,25,16000000,Fulham Football Club,premier-league,15,1350.0,1.1,0.5,0.9,0.9,3.2,0.2,0.9,-,6.36
+564529,1003,Victor,Kristiansen,Victor Kristiansen,Defender,Left-Back,22,16000000,Leicester City Football Club,premier-league,14,1220.0,3.6,1.1,0.6,0.4,2.2,1.4,0.7,1,6.69
+471690,989,Max,Aarons,Max Aarons,Defender,Right-Back,24,16000000,Association Football Club Bournemouth,premier-league,0(1),16.0,-,-,-,-,-,-,-,-,6.17
+262226,931,Timothy,Castagne,Timothy Castagne,Defender,Right-Back,29,15000000,Fulham Football Club,premier-league,1(5),178.0,0.8,0.3,-,-,1.8,0.5,-,-,6.36
+676042,368,Juanlu,Sánchez,Juanlu Sánchez,Defender,Right-Back,21,15000000,Sevilla Fútbol Club S.A.D.,laliga,6(6),582.0,0.8,0.6,0.3,-,0.5,0.2,-,-,6.44
+895334,1049,Yarek,Gasiorowski,Yarek Gasiorowski,Defender,Centre-Back,19,15000000,Valencia Club de Fútbol S. A. D.,laliga,6(3),627.0,2.0,1.7,0.2,1,3.7,0.3,0.4,-,6.82
+169880,6195,Giovanni,Di Lorenzo,Giovanni Di Lorenzo,Defender,Right-Back,31,15000000,Società Sportiva Calcio Napoli,serie-a,,,,,,,,,,,
+177907,985,Harry,Maguire,Harry Maguire,Defender,Centre-Back,31,15000000,Manchester United Football Club,premier-league,5(4),451.0,0.8,1.6,0.6,0.1,1.6,-,0.3,-,6.5
+197747,398,Alessio,Romagnoli,Alessio Romagnoli,Defender,Centre-Back,29,15000000,Società Sportiva Lazio S.p.A.,serie-a,12,941.0,1.5,1.0,0.8,0.2,2.1,0.2,0.4,-,6.54
+617060,472,Mika,Mármol,Mika Mármol,Defender,Centre-Back,23,15000000,Unión Deportiva Las Palmas S.A.D.,laliga,9(2),780.0,2.0,1.2,1.0,0.1,2.7,0.5,0.7,-,6.49
+654539,273,Adrien,Truffert,Adrien Truffert,Defender,Left-Back,23,15000000,Stade Rennais Football Club,ligue-1,12(2),1047.0,1.8,0.6,1,0.4,1.5,0.4,0.1,-,6.42
+535955,398,Nuno,Tavares,Nuno Tavares,Defender,Left-Back,24,15000000,Società Sportiva Lazio S.p.A.,serie-a,11,912.0,1.6,0.9,0.8,0.1,2.1,0.9,0.1,-,7.16
+689637,873,Chadi,Riad,Chadi Riad,Defender,Centre-Back,21,15000000,Crystal Palace Football Club,premier-league,1,90.0,5,2,1,1,-,1,-,-,6.42
+357156,89,Diogo,Leite,Diogo Leite,Defender,Centre-Back,25,15000000,1. Fußballclub Union Berlin,bundesliga,13,1089.0,2.8,1.9,0.9,-,3.8,0.8,0.7,-,7.1
+355816,18,Ko,Itakura,Ko Itakura,Defender,Centre-Back,27,15000000,Borussia Verein für Leibesübungen 1900 Mönchengladbach,bundesliga,14,1260.0,1.5,0.9,1.2,0.6,4.6,0.4,0.6,-,6.8
+376514,6195,Mathías,Olivera,Mathías Olivera,Defender,Left-Back,27,15000000,Società Sportiva Calcio Napoli,serie-a,13(3),1206.0,2.4,1,1,0.2,1.8,0.7,0.3,-,6.89
+166601,16,Niklas,Süle,Niklas Süle,Defender,Centre-Back,29,15000000,Borussia Dortmund,bundesliga,5(2),491.0,0.7,0.1,0.4,0.9,3.7,0.1,0.4,-,6.49
+225657,60,Philipp,Lienhart,Philipp Lienhart,Defender,Centre-Back,28,15000000,Sport-Club Freiburg,bundesliga,14,1192.0,0.8,1.4,0.4,0.5,2.9,0.5,0.6,-,6.57
+424015,29,Nathan,Patterson,Nathan Patterson,Defender,Right-Back,23,15000000,Everton Football Club,premier-league,0(1),17.0,1,-,-,-,-,-,-,-,6.36
+291200,1041,Moussa,Niakhaté,Moussa Niakhaté,Defender,Centre-Back,28,15000000,Olympique Lyonnais,ligue-1,12,1080.0,2,0.7,1.2,0.5,3.3,0.3,0.7,-,6.62
+228948,162,Thilo,Kehrer,Thilo Kehrer,Defender,Centre-Back,28,15000000,Association sportive de Monaco Football Club,ligue-1,13,1170.0,2.1,1.1,0.5,0.2,4.8,0.8,0.4,-,7.2
+341264,418,Fran,García,Fran García,Defender,Left-Back,25,15000000,Real Madrid Club de Fútbol,laliga,8(6),768.0,0.8,0.5,0.1,0.1,1.3,0.4,0.2,-,6.56
+563963,162,Mohammed,Salisu,Mohammed Salisu,Defender,Centre-Back,25,15000000,Association sportive de Monaco Football Club,ligue-1,7(2),659.0,2.2,0.9,0.7,0.7,4.2,-,0.8,-,6.85
+413220,1003,James,Justin,James Justin,Defender,Right-Back,26,15000000,Leicester City Football Club,premier-league,15,1343.0,2.3,1.6,0.6,0.2,3.5,0.9,0.4,-,6.79
+364245,162,Jordan,Teze,Jordan Teze,Defender,Right-Back,25,15000000,Association sportive de Monaco Football Club,ligue-1,4(6),306.0,1.0,0.2,0.8,0.3,0.4,0.6,0.1,-,6.33
+816580,1082,Tiago,Santos,Tiago Santos,Defender,Right-Back,22,15000000,Lille Olympique Sporting Club,ligue-1,4(3),405.0,1.7,0.3,0.9,0.3,0.6,0.4,-,-,6.9
+580560,681,Jon,Pacheco,Jon Pacheco,Defender,Centre-Back,23,15000000,Real Sociedad de Fútbol S.A.D.,laliga,4(3),386.0,0.6,0.6,1.6,0.1,3.0,0.1,0.6,-,6.43
+59016,418,David,Alaba,David Alaba,Defender,Centre-Back,32,15000000,Real Madrid Club de Fútbol,laliga,,,,,,,,,,,
+257732,6195,Amir,Rrahmani,Amir Rrahmani,Defender,Centre-Back,30,15000000,Società Sportiva Calcio Napoli,serie-a,16,1440.0,0.8,0.3,0.9,0.1,3.8,0.3,0.5,-,6.92
+204069,583,Milan,Skriniar,Milan Skriniar,Defender,Centre-Back,29,15000000,Paris Saint-Germain Football Club,ligue-1,4(1),381.0,1.4,0.6,0.8,0.6,2.8,-,1.2,-,6.77
+206746,931,Kenny,Tete,Kenny Tete,Defender,Right-Back,29,15000000,Fulham Football Club,premier-league,15,1266.0,2.7,1.9,1.5,0.7,2.2,0.7,0.4,-,6.86
+548348,60,Kiliann,Sildillia,Kiliann Sildillia,Defender,Right-Back,22,15000000,Sport-Club Freiburg,bundesliga,0(6),49.0,0.2,-,0.2,-,0.8,-,-,-,6.04
+371851,410,Jaka,Bijol,Jaka Bijol,Defender,Centre-Back,25,15000000,Udinese Calcio,serie-a,15,1350.0,1.4,1.1,1.4,0.9,5,0.7,0.6,-,6.7
+339340,985,Tyrell,Malacia,Tyrell Malacia,Defender,Left-Back,25,15000000,Manchester United Football Club,premier-league,1,46.0,1,1,1.0,-,-,-,-,-,6.27
+711544,29,Jake,O'Brien,Jake O'Brien,Defender,Centre-Back,23,15000000,Everton Football Club,premier-league,0(2),34.0,1,-,0.5,-,-,-,-,-,6.09
+588426,416,Saúl,Coco,Saúl Coco,Defender,Centre-Back,25,14000000,Torino Calcio,serie-a,15,1350.0,1.1,1.5,1.5,0.4,4.7,0.4,0.9,1,6.78
+369674,82,Joakim,Maehle,Joakim Maehle,Defender,Right-Back,27,14000000,Verein für Leibesübungen Wolfsburg,bundesliga,,,,,,,,,,,
+223974,1025,Stefan,Posch,Stefan Posch,Defender,Right-Back,27,14000000,Bologna Football Club 1909,serie-a,6(6),629.0,1.8,0.4,1.3,0.1,1.4,0.8,0.3,-,6.54
+236490,703,Ola,Aina,Ola Aina,Defender,Right-Back,28,14000000,Nottingham Forest Football Club,premier-league,16,1376.0,2.1,1.3,0.5,0.3,2.3,0.6,0.3,-,6.81
+401320,677,Dara,O'Shea,Dara O'Shea,Defender,Centre-Back,25,14000000,Ipswich Town Football Club,premier-league,13,1143.0,1.4,1.4,0.4,0.2,5.3,0.2,1.6,-,6.76
+373373,430,Lucas,Martínez Quarta,Lucas Martínez Quarta,Defender,Centre-Back,28,13000000,Associazione Calcio Fiorentina,serie-a,,,,,,,,,,,
+346314,873,Trevoh,Chalobah,Trevoh Chalobah,Defender,Centre-Back,25,13000000,Crystal Palace Football Club,premier-league,10,883.0,1.8,1.7,0.8,0.4,4.9,1.0,0.9,-,6.83
+763079,826,Abdukodir,Khusanov,Abdukodir Khusanov,Defender,Centre-Back,20,12000000,Racing Club de Lens,ligue-1,11(2),976.0,1.2,2.0,1.0,0.7,4.3,0.3,0.8,-,6.89
+962555,667,Abakar,Sylla,Abakar Sylla,Defender,Centre-Back,22,12000000,Racing Club de Strasbourg Alsace,ligue-1,8(3),650.0,1.7,0.6,1.3,0.3,2.6,0.1,0.6,1,6.34
+557613,244,Quentin,Merlin,Quentin Merlin,Defender,Left-Back,22,12000000,Olympique de Marseille,ligue-1,7(1),560.0,0.8,0.9,0.8,-,0.5,0.5,0.1,-,6.53
+303219,79,Jeff,Chabot,Jeff Chabot,Defender,Centre-Back,26,12000000,Verein für Bewegungsspiele Stuttgart 1893,bundesliga,12(1),1025.0,1.3,1.7,1.3,0.5,4.4,0.8,0.5,-,6.71
+504148,1237,Tariq,Lamptey,Tariq Lamptey,Defender,Right-Back,24,12000000,Brighton and Hove Albion Football Club,premier-league,3(2),236.0,0.8,0.6,0.4,-,1.4,1,0.2,-,6.59
+578539,873,Chris,Richards,Chris Richards,Defender,Centre-Back,24,12000000,Crystal Palace Football Club,premier-league,4(2),355.0,1.7,0.5,0.5,0.3,2.3,0.8,0.2,-,6.28
+1005240,162,Christian,Mawissa,Christian Mawissa,Defender,Centre-Back,19,12000000,Association sportive de Monaco Football Club,ligue-1,5(3),470.0,2.3,1.6,0.3,0.4,0.4,0.9,0.1,-,6.66
+532775,417,Melvin,Bard,Melvin Bard,Defender,Left-Back,24,12000000,Olympique Gymnaste Club Nice Côte d'Azur,ligue-1,7(1),588.0,2.6,0.9,0.8,-,1.4,0.6,0.8,-,6.93
+323167,5,Matteo,Gabbia,Matteo Gabbia,Defender,Centre-Back,25,12000000,Associazione Calcio Milan,serie-a,8,699.0,0.9,0.6,0.6,0.6,3.0,0.1,1.1,-,6.99
+331505,940,Óscar,Mingueza,Óscar Mingueza,Defender,Right-Back,25,12000000,Real Club Celta de Vigo S. A. D.,laliga,16,1279.0,1.2,0.5,0.8,0.1,1.0,1.0,0.3,-,6.82
+787912,23826,El Chadaille,Bitshiabu,El Chadaille Bitshiabu,Defender,Centre-Back,19,12000000,RasenBallsport Leipzig,bundesliga,,,,,,,,,,,
+620598,79,Ameen,Al-Dakhil,Ameen Al-Dakhil,Defender,Centre-Back,22,12000000,Verein für Bewegungsspiele Stuttgart 1893,bundesliga,,,,,,,,,,,
+126664,405,Lucas,Digne,Lucas Digne,Defender,Left-Back,31,12000000,Aston Villa Football Club,premier-league,14(2),1171.0,1.9,1.1,0.9,0.1,2.4,0.7,0.2,-,6.8
+138927,418,Daniel,Carvajal,Daniel Carvajal,Defender,Right-Back,32,12000000,Real Madrid Club de Fútbol,laliga,,,,,,,,,,,
+669380,82,Konstantinos,Koulierakis,Konstantinos Koulierakis,Defender,Centre-Back,21,12000000,Verein für Leibesübungen Wolfsburg,bundesliga,10(2),925.0,1.3,1,0.9,0.3,4.5,0.5,0.8,-,6.84
+480763,1050,Juan,Foyth,Juan Foyth,Defender,Right-Back,26,12000000,Villarreal Club de Fútbol S.A.D.,laliga,0(1),16.0,-,-,-,-,-,-,-,-,6.15
+405385,180,Yukinari,Sugawara,Yukinari Sugawara,Defender,Right-Back,24,12000000,Southampton Football Club,premier-league,9(5),797.0,1.4,0.4,0.4,-,1.7,0.4,0.4,-,6.39
+170986,27,Raphaël,Guerreiro,Raphaël Guerreiro,Defender,Left-Back,31,12000000,FC Bayern München,bundesliga,10(1),807.0,0.9,0.5,0.3,0.1,0.9,0.2,-,-,6.91
+212847,1237,Adam,Webster,Adam Webster,Defender,Centre-Back,29,12000000,Brighton and Hove Albion Football Club,premier-league,2(1),80.0,-,0.3,0.3,0.7,1,0.7,1,-,6.03
+391005,1148,Mads,Roerslev,Mads Roerslev,Defender,Right-Back,25,12000000,Brentford Football Club,premier-league,5(7),537.0,0.6,0.2,0.2,0.2,1.3,0.6,0.2,-,6.24
+467563,180,Armel,Bella-Kotchap,Armel Bella-Kotchap,Defender,Centre-Back,23,12000000,Southampton Football Club,premier-league,,,,,,,,,,,
+461833,1003,Caleb,Okoli,Caleb Okoli,Defender,Centre-Back,23,12000000,Leicester City Football Club,premier-league,9(1),786.0,1.8,1,0.7,0.3,5.3,0.3,1.1,-,6.52
+923832,995,Nathan,Zézé,Nathan Zézé,Defender,Centre-Back,19,12000000,Football Club de Nantes,ligue-1,10,885.0,2.3,1.2,0.8,0.3,7.5,0.6,0.8,-,7.0
+490384,252,Koni,De Winter,Koni De Winter,Defender,Centre-Back,22,12000000,Genoa Cricket and Football Club,serie-a,,,,,,,,,,,
+243028,180,Jan,Bednarek,Jan Bednarek,Defender,Centre-Back,28,11000000,Southampton Football Club,premier-league,12,1071.0,0.7,1.5,0.8,0.5,5.3,0.5,1.4,-,6.34
+193098,703,Álex,Moreno,Álex Moreno,Defender,Left-Back,31,11000000,Nottingham Forest Football Club,premier-league,10(1),795.0,2.2,1.3,1,0.2,2.5,1.8,0.4,-,6.62
+621993,703,Andrew,Omobamidele,Andrew Omobamidele,Defender,Centre-Back,22,11000000,Nottingham Forest Football Club,premier-league,,,,,,,,,,,
+282429,148,Sergio,Reguilón,Sergio Reguilón,Defender,Left-Back,28,11000000,Tottenham Hotspur Football Club,premier-league,,,,,,,,,,,
+826224,12321,Arnau,Martínez,Arnau Martínez,Defender,Right-Back,21,10000000,Girona Fútbol Club S. A. D.,laliga,12(2),1069.0,1.4,0.3,0.4,0.1,1.2,0.5,0.2,-,6.5
+343475,800,Ben,Godfrey,Ben Godfrey,Defender,Centre-Back,26,10000000,Atalanta Bergamasca Calcio S.p.a.,serie-a,0(1),22.0,-,-,1,-,-,1,1,-,6.04
+192635,18,Nico,Elvedi,Nico Elvedi,Defender,Centre-Back,28,10000000,Borussia Verein für Leibesübungen 1900 Mönchengladbach,bundesliga,8,676.0,1.3,1.3,0.4,0.5,3.8,0.1,1.1,-,6.94
+768380,738,Arouna,Sangante,Arouna Sangante,Defender,Centre-Back,22,10000000,Le Havre Athletic Club,ligue-1,6,519.0,1.5,2.3,1.8,0.8,3.5,0.5,0.7,-,6.69
+344598,79,Dan-Axel,Zagadou,Dan-Axel Zagadou,Defender,Centre-Back,25,10000000,Verein für Bewegungsspiele Stuttgart 1893,bundesliga,0(2),27.0,-,0.5,0.5,-,0.5,-,-,-,6.07
+262523,5,Davide,Calabria,Davide Calabria,Defender,Right-Back,28,10000000,Associazione Calcio Milan,serie-a,2(2),157.0,1.3,0.8,0.8,-,1.0,0.5,-,-,6.35
+937955,131,Héctor,Fort,Héctor Fort,Defender,Right-Back,18,10000000,Futbol Club Barcelona,laliga,2(7),271.0,0.9,0.4,0.3,0.3,0.9,0.3,-,-,6.38
+666974,273,Mikayil,Faye,Mikayil Faye,Defender,Centre-Back,20,10000000,Stade Rennais Football Club,ligue-1,5(3),515.0,1.4,1,1.3,0.4,2.6,-,0.3,-,6.52
+541555,331,Enzo,Boyomo,Enzo Boyomo,Defender,Centre-Back,23,10000000,Club Atlético Osasuna,laliga,3,270.0,2.0,0.3,1.0,-,2.0,-,1,-,6.61
+348026,15,Nordi,Mukiele,Nordi Mukiele,Defender,Right-Back,27,10000000,Bayer 04 Leverkusen Fußball,bundesliga,2(2),115.0,0.8,0.5,0.5,-,0.8,-,-,1,6.02
+345911,12321,Ladislav,Krejci,Ladislav Krejci,Defender,Centre-Back,25,10000000,Girona Fútbol Club S. A. D.,laliga,,,,,,,,,,,
+448258,79,Josha,Vagnoman,Josha Vagnoman,Defender,Right-Back,24,10000000,Verein für Bewegungsspiele Stuttgart 1893,bundesliga,11(2),1031.0,0.8,0.7,0.8,0.4,2.0,0.5,0.2,-,6.55
+231572,543,Nélson,Semedo,Nélson Semedo,Defender,Right-Back,31,10000000,Wolverhampton Wanderers Football Club,premier-league,13,1142.0,2.5,0.5,1.4,0.4,3.6,1.1,0.5,-,6.77
+93740,23826,Willi,Orbán,Willi Orbán,Defender,Centre-Back,32,10000000,RasenBallsport Leipzig,bundesliga,12,1075.0,1.8,0.8,1.1,0.7,5.5,0.3,1.5,-,7.33
+683895,1421,Emmanuel,Agbadou,Emmanuel Agbadou,Defender,Centre-Back,27,10000000,Stade de Reims,ligue-1,14,1260.0,1.8,1.4,0.9,0.5,4.5,0.5,0.9,-,7.01
+282144,430,Marin,Pongračić,Marin Pongračić,Defender,Centre-Back,27,10000000,Associazione Calcio Fiorentina,serie-a,,,,,,,,,,,
+300716,11,Kieran,Tierney,Kieran Tierney,Defender,Left-Back,27,10000000,Arsenal Football Club,premier-league,,,,,,,,,,,
+175722,27,Eric,Dier,Eric Dier,Defender,Centre-Back,30,10000000,FC Bayern München,bundesliga,1(4),107.0,0.4,0.2,-,0.2,0.8,0.2,-,-,6.23
+513970,989,Julián,Araujo,Julián Araujo,Defender,Right-Back,23,10000000,Association Football Club Bournemouth,premier-league,5(3),357.0,0.9,0.5,0.5,-,1.4,0.8,-,-,6.11
+173504,29,James,Tarkowski,James Tarkowski,Defender,Centre-Back,32,10000000,Everton Football Club,premier-league,15,1342.0,2.3,0.9,1.0,0.4,5.8,0.7,1.4,-,6.95
+94005,800,Sead,Kolasinac,Sead Kolasinac,Defender,Centre-Back,31,10000000,Atalanta Bergamasca Calcio S.p.a.,serie-a,10,857.0,1.6,1.4,2.0,0.1,1.8,0.6,0.1,1,6.69
+361260,533,Ozan,Kabak,Ozan Kabak,Defender,Centre-Back,24,10000000,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,bundesliga,,,,,,,,,,,
+690799,79,Anthony,Rouault,Anthony Rouault,Defender,Centre-Back,23,10000000,Verein für Bewegungsspiele Stuttgart 1893,bundesliga,9(3),785.0,0.8,1.1,1.0,0.8,3.3,0.3,0.5,-,6.53
+124502,60,Matthias,Ginter,Matthias Ginter,Defender,Centre-Back,30,10000000,Sport-Club Freiburg,bundesliga,10(3),965.0,0.8,0.2,0.5,0.5,3.5,0.2,0.6,-,6.71
+805714,631,Renato,Veiga,Renato Veiga,Defender,Left-Back,21,10000000,Chelsea Football Club,premier-league,1(6),177.0,1.3,0.1,0.9,-,0.3,1.1,0.1,-,6.27
+285845,1041,Ainsley,Maitland-Niles,Ainsley Maitland-Niles,Defender,Right-Back,27,10000000,Olympique Lyonnais,ligue-1,11(4),1021.0,2.4,1.0,0.3,0.2,1.7,0.7,0.1,-,6.75
+165513,800,Berat,Djimsiti,Berat Djimsiti,Defender,Centre-Back,31,10000000,Atalanta Bergamasca Calcio S.p.a.,serie-a,12(2),1052.0,1.9,1.6,0.6,0.4,3.0,0.2,0.6,1,6.82
+485960,244,Lilian,Brassier,Lilian Brassier,Defender,Centre-Back,25,10000000,Olympique de Marseille,ligue-1,7(3),629.0,0.6,0.4,0.5,0.5,2.3,0.1,0.2,-,6.19
+504153,18,Joe,Scally,Joe Scally,Defender,Right-Back,22,10000000,Borussia Verein für Leibesübungen 1900 Mönchengladbach,bundesliga,14,1173.0,1.6,0.6,1.1,0.1,2.1,0.8,0.6,-,6.6
+184573,985,Victor,Lindelöf,Victor Lindelöf,Defender,Centre-Back,30,10000000,Manchester United Football Club,premier-league,0(5),59.0,0.6,0.4,0.4,0.2,0.8,-,-,-,6.15
+805908,3911,Bradley,Locko,Bradley Locko,Defender,Left-Back,22,10000000,Stade brestois 29,ligue-1,,,,,,,,,,,
+95424,281,Kyle,Walker,Kyle Walker,Defender,Right-Back,34,10000000,Manchester City Football Club,premier-league,9(3),873.0,1.4,0.3,0.4,0.3,0.8,0.8,0.3,-,6.32
+849410,368,Valentín,Barco,Valentín Barco,Defender,Left-Back,20,10000000,Sevilla Fútbol Club S.A.D.,laliga,3(4),287.0,2.1,0.3,1,0.3,0.3,0.4,-,-,6.34
+148153,1237,Lewis,Dunk,Lewis Dunk,Defender,Centre-Back,33,10000000,Brighton and Hove Albion Football Club,premier-league,11(1),994.0,0.6,0.7,0.3,0.9,2.3,0.1,0.6,-,6.5
+369684,24,Rasmus,Kristensen,Rasmus Kristensen,Defender,Right-Back,27,10000000,Eintracht Frankfurt Fußball AG,bundesliga,11,938.0,1.7,0.9,0.9,0.2,2.6,1.2,0.4,-,6.77
+532937,252,Johan,Vásquez,Johan Vásquez,Defender,Centre-Back,26,10000000,Genoa Cricket and Football Club,serie-a,13(2),1214.0,1.1,1.2,0.9,0.3,3.5,0.7,0.9,-,6.5
+635645,24,Aurèle,Amenda,Aurèle Amenda,Defender,Centre-Back,21,9500000,Eintracht Frankfurt Fußball AG,bundesliga,1(3),69.0,-,0.3,0.8,-,1,-,0.5,-,6.24
+659513,3911,Soumaïla,Coulibaly,Soumaïla Coulibaly,Defender,Centre-Back,21,9000000,Stade brestois 29,ligue-1,3(2),319.0,0.4,1.0,1.8,0.6,2.6,-,0.2,-,6.38
+240692,13,Reinildo,Mandava,Reinildo Mandava,Defender,Left-Back,30,9000000,Club Atlético de Madrid S.A.D.,laliga,,,,,,,,,,,
+370683,39,Andreas,Hanche-Olsen,Andreas Hanche-Olsen,Defender,Centre-Back,27,9000000,1. Fußball- und Sportverein Mainz 05,bundesliga,4(2),384.0,0.7,0.5,1.7,-,3.5,-,1,-,6.07
+341227,1025,Juan,Miranda,Juan Miranda,Defender,Left-Back,24,9000000,Bologna Football Club 1909,serie-a,9(3),855.0,1.3,1,0.8,-,0.9,0.7,0.1,-,6.83
+135343,762,Fabian,Schär,Fabian Schär,Defender,Centre-Back,33,9000000,Newcastle United Football Club,premier-league,14,1198.0,0.9,1.4,0.7,0.5,3.4,0.6,0.7,-,6.62
+392775,931,Ryan,Sessegnon,Ryan Sessegnon,Defender,Left-Back,24,9000000,Fulham Football Club,premier-league,0(1),4.0,-,1,1,-,1,1,-,-,6.05
+468002,677,Ben,Johnson,Ben Johnson,Defender,Right-Back,24,9000000,Ipswich Town Football Club,premier-league,5(3),497.0,2.8,1.1,1.0,0.4,1.3,1,0.4,-,6.52
+453376,1421,Joseph,Okumu,Joseph Okumu,Defender,Centre-Back,27,9000000,Stade de Reims,ligue-1,6(1),567.0,2.3,1.6,0.7,0.7,4.0,0.6,1.3,-,6.9
+798404,273,Alidu,Seidu,Alidu Seidu,Defender,Centre-Back,24,9000000,Stade Rennais Football Club,ligue-1,10(1),807.0,2,1.3,0.9,0.3,1.5,0.3,0.5,-,6.85
+686965,506,Juan,Cabal,Juan Cabal,Defender,Left-Back,23,9000000,Juventus Football Club,serie-a,6(1),462.0,1.4,0.3,1,0.1,2.0,0.6,-,-,6.57
+255906,472,Scott,McKenna,Scott McKenna,Defender,Centre-Back,28,9000000,Unión Deportiva Las Palmas S.A.D.,laliga,12(1),1088.0,0.7,0.4,0.5,0.6,5.2,0.1,1.2,1,6.49
+662261,6195,Rafa,Marín,Rafa Marín,Defender,Centre-Back,22,9000000,Società Sportiva Calcio Napoli,serie-a,,,,,,,,,,,
+711969,273,Lorenz,Assignon,Lorenz Assignon,Defender,Right-Back,24,9000000,Stade Rennais Football Club,ligue-1,10(4),857.0,1.3,0.9,1.8,0.2,2.2,0.9,0.2,-,6.64
+867137,130,Alessandro,Circati,Alessandro Circati,Defender,Centre-Back,21,8500000,Parma Calcio 1913,serie-a,4,360.0,1,0.5,0.8,1,7.0,-,1,-,6.35
+848682,405,Kosta,Nedeljkovic,Kosta Nedeljkovic,Defender,Right-Back,19,8500000,Aston Villa Football Club,premier-league,0(3),93.0,2.3,-,-,-,1.0,0.3,-,-,6.32
+496745,1025,Emil,Holm,Emil Holm,Defender,Right-Back,24,8500000,Bologna Football Club 1909,serie-a,3(5),309.0,1.5,0.4,0.6,-,1.1,0.5,0.1,-,6.53
+569387,533,Valentin,Gendrey,Valentin Gendrey,Defender,Right-Back,24,8500000,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,bundesliga,6(5),679.0,1.5,0.6,0.5,-,2.1,0.5,0.2,-,6.64
+215599,23826,Lukas,Klostermann,Lukas Klostermann,Defender,Centre-Back,28,8000000,RasenBallsport Leipzig,bundesliga,8(4),752.0,0.9,0.8,0.5,0.4,3.0,0.4,0.8,-,6.55
+282041,583,Presnel,Kimpembe,Presnel Kimpembe,Defender,Centre-Back,29,8000000,Paris Saint-Germain Football Club,ligue-1,,,,,,,,,,,
+500054,533,David,Jurásek,David Jurásek,Defender,Left-Back,24,8000000,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,bundesliga,1(3),153.0,0.5,0.5,-,-,1,-,-,-,6.16
+639712,738,Étienne,Youté Kinkoué,Étienne Youté Kinkoué,Defender,Centre-Back,22,8000000,Le Havre Athletic Club,ligue-1,,,,,,,,,,,
+389837,1025,Nicolò,Casale,Nicolò Casale,Defender,Centre-Back,26,8000000,Bologna Football Club 1909,serie-a,3(2),258.0,0.6,0.4,0.8,0.4,1.4,0.2,1.2,1,5.88
+524285,18,Luca,Netz,Luca Netz,Defender,Left-Back,21,8000000,Borussia Verein für Leibesübungen 1900 Mönchengladbach,bundesliga,6(1),547.0,1.9,1,0.9,-,1.7,0.7,0.3,-,6.63
+620217,533,Robin,Hranac,Robin Hranac,Defender,Centre-Back,24,8000000,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,bundesliga,,,,,,,,,,,
+910905,667,Mamadou,Sarr,Mamadou Sarr,Defender,Centre-Back,19,8000000,Racing Club de Strasbourg Alsace,ligue-1,9,769.0,1.8,1,1.3,0.4,3.3,0.6,0.6,-,6.68
+716276,543,Yerson,Mosquera,Yerson Mosquera,Defender,Centre-Back,23,8000000,Wolverhampton Wanderers Football Club,premier-league,5,442.0,2.2,2,1.2,0.4,2.8,1,2,-,6.69
+517842,681,Aihen,Muñoz,Aihen Muñoz,Defender,Left-Back,27,8000000,Real Sociedad de Fútbol S.A.D.,laliga,4(5),353.0,0.6,0.8,0.4,-,1.9,0.9,0.1,-,6.43
+95810,762,Kieran,Trippier,Kieran Trippier,Defender,Right-Back,34,8000000,Newcastle United Football Club,premier-league,3(5),320.0,1.3,0.3,0.9,0.1,0.5,1.1,0.1,-,6.4
+848509,276,Jackson,Tchatchoua,Jackson Tchatchoua,Defender,Right-Back,23,8000000,Verona Hellas Football Club,serie-a,15,1296.0,1.7,0.5,0.7,0.2,1.8,0.4,0.4,-,6.52
+711980,667,Guéla,Doué,Guéla Doué,Defender,Right-Back,22,8000000,Racing Club de Strasbourg Alsace,ligue-1,14,1260.0,1.9,1.6,1.2,0.3,4.7,0.5,-,-,6.8
+273132,430,Robin,Gosens,Robin Gosens,Defender,Left-Back,30,8000000,Associazione Calcio Fiorentina,serie-a,1,90.0,-,1,5.0,-,1.0,3.0,-,-,6.46
+483348,148,Djed,Spence,Djed Spence,Defender,Right-Back,24,8000000,Tottenham Hotspur Football Club,premier-league,1(4),141.0,1.0,0.6,0.4,-,0.8,-,-,-,6.67
+346561,430,Luca,Ranieri,Luca Ranieri,Defender,Centre-Back,25,8000000,Associazione Calcio Fiorentina,serie-a,13(1),1197.0,0.9,0.6,0.7,0.3,3.6,0.3,1.1,-,6.85
+238266,1041,Duje,Caleta-Car,Duje Caleta-Car,Defender,Centre-Back,28,8000000,Olympique Lyonnais,ligue-1,12(1),1068.0,1.1,0.9,1.3,0.5,4.6,0.5,1.3,-,6.66
+442248,1148,Ethan,Pinnock,Ethan Pinnock,Defender,Centre-Back,31,8000000,Brentford Football Club,premier-league,16,1440.0,1.8,1.1,0.3,0.3,6.4,0.3,1,1,6.79
+438001,543,Santiago,Bueno,Santiago Bueno,Defender,Centre-Back,26,8000000,Wolverhampton Wanderers Football Club,premier-league,8(1),702.0,1.3,0.4,1.3,0.6,2.7,0.3,0.9,-,6.28
+766583,368,Kike,Salas,Kike Salas,Defender,Centre-Back,22,8000000,Sevilla Fútbol Club S.A.D.,laliga,8(4),736.0,1.1,0.9,0.5,0.3,2.9,0.4,0.4,-,6.58
+947360,162,Kassoum,Ouattara,Kassoum Ouattara,Defender,Left-Back,20,8000000,Association sportive de Monaco Football Club,ligue-1,3(7),269.0,0.8,0.4,0.8,-,0.1,0.8,-,-,6.31
+255488,621,Yeray,Álvarez,Yeray Álvarez,Defender,Centre-Back,29,8000000,Athletic Club Bilbao,laliga,9,810.0,1.1,2.0,0.9,0.9,3.4,0.3,0.3,-,6.76
+253677,405,Tyrone,Mings,Tyrone Mings,Defender,Centre-Back,31,8000000,Aston Villa Football Club,premier-league,1,90.0,1,-,-,1,6,-,1,-,7.22
+402733,368,Gonzalo,Montiel,Gonzalo Montiel,Defender,Right-Back,27,8000000,Sevilla Fútbol Club S.A.D.,laliga,1(4),107.0,0.8,0.4,0.6,0.4,2.0,0.2,-,-,6.26
+746833,667,Caleb,Wiley,Caleb Wiley,Defender,Left-Back,20,8000000,Racing Club de Strasbourg Alsace,ligue-1,3(3),268.0,0.2,0.7,0.3,0.3,0.7,0.2,0.2,-,6.18
+250779,3911,Brendan,Chardonnet,Brendan Chardonnet,Defender,Centre-Back,30,8000000,Stade brestois 29,ligue-1,13,1170.0,1.5,1.1,1.5,0.9,5.0,0.7,0.8,-,6.62
+250478,762,Matt,Targett,Matt Targett,Defender,Left-Back,29,8000000,Newcastle United Football Club,premier-league,,,,,,,,,,,
+192765,148,Ben,Davies,Ben Davies,Defender,Centre-Back,31,8000000,Tottenham Hotspur Football Club,premier-league,3(1),271.0,0.3,1.3,0.5,1,4.0,0.8,1.3,-,6.78
+362977,89,Josip,Juranovic,Josip Juranovic,Defender,Right-Back,29,7500000,1. Fußballclub Union Berlin,bundesliga,0(2),17.0,0.5,-,-,-,-,-,-,-,6.11
+488626,331,Jesús,Areso,Jesús Areso,Defender,Right-Back,25,7500000,Club Atlético Osasuna,laliga,16,1417.0,1.6,0.4,1.3,0.3,2.9,0.6,0.2,-,6.62
+156990,86,Marco,Friedl,Marco Friedl,Defender,Centre-Back,26,7500000,Sportverein Werder Bremen von 1899,bundesliga,12,1031.0,2.5,1.5,0.8,0.8,5.3,1.0,0.8,1,6.84
+591193,24,Niels,Nkounkou,Niels Nkounkou,Defender,Left-Back,24,7500000,Eintracht Frankfurt Fußball AG,bundesliga,4(3),305.0,0.9,0.7,0.7,-,0.9,0.4,0.3,-,6.42
+660860,276,Diego,Coppola,Diego Coppola,Defender,Centre-Back,21,7500000,Verona Hellas Football Club,serie-a,12(1),1037.0,1.8,2.2,1.2,0.7,3.8,0.4,0.8,-,6.6
+460245,39,Moritz,Jenz,Moritz Jenz,Defender,Centre-Back,25,7500000,1. Fußball- und Sportverein Mainz 05,bundesliga,7,630.0,2.0,1.3,1.4,0.3,7,0.4,1,-,7.18
+559979,1108,Abdel,Abqar,Abdel Abqar,Defender,Centre-Back,25,7500000,Deportivo Alavés S.A.D.,laliga,16,1312.0,1.4,1.5,1.9,0.7,4.5,0.4,0.6,-,6.5
+568158,681,Javi,López,Javi López,Defender,Left-Back,22,7500000,Real Sociedad de Fútbol S.A.D.,laliga,9(4),861.0,1.4,0.2,1.1,0.5,1.8,0.5,0.2,-,6.37
+547985,430,Fabiano,Parisi,Fabiano Parisi,Defender,Left-Back,24,7500000,Associazione Calcio Fiorentina,serie-a,1(6),170.0,0.9,0.3,0.6,0.3,0.4,0.1,-,-,6.54
+572326,273,Christopher,Wooh,Christopher Wooh,Defender,Centre-Back,23,7000000,Stade Rennais Football Club,ligue-1,10(2),879.0,2.2,0.9,1.4,0.7,2.8,0.4,0.6,1,6.59
+284732,16,Ramy,Bensebaini,Ramy Bensebaini,Defender,Left-Back,29,7000000,Borussia Dortmund,bundesliga,8(5),793.0,1.8,0.8,1,-,1.6,0.5,0.2,-,6.72
+354482,244,Amir,Murillo,Amir Murillo,Defender,Right-Back,28,7000000,Olympique de Marseille,ligue-1,12(3),1153.0,1.7,0.7,0.8,0.2,2.2,0.7,0.2,-,6.65
+131225,1041,Nicolás,Tagliafico,Nicolás Tagliafico,Defender,Left-Back,32,7000000,Olympique Lyonnais,ligue-1,8,712.0,3.4,2.1,1.1,0.3,2.3,0.6,0.5,-,7.39
+134270,762,Dan,Burn,Dan Burn,Defender,Centre-Back,32,7000000,Newcastle United Football Club,premier-league,15,1350.0,1.0,0.6,0.8,0.2,4.5,0.6,0.7,1,6.69
+385394,1047,Alberto,Dossena,Alberto Dossena,Defender,Centre-Back,26,7000000,Calcio Como,serie-a,12,1049.0,1.3,1.0,1,0.8,4.8,0.4,0.5,-,6.51
+708678,410,Isaak,Touré,Isaak Touré,Defender,Centre-Back,21,7000000,Udinese Calcio,serie-a,8(1),613.0,0.6,0.9,1.3,0.6,1.1,0.1,0.7,1,6.24
+708072,506,Nicolò,Savona,Nicolò Savona,Defender,Right-Back,21,7000000,Juventus Football Club,serie-a,9(5),850.0,1.2,0.4,0.2,-,0.1,0.3,-,-,6.77
+678406,1050,Sergi,Cardona,Sergi Cardona,Defender,Left-Back,25,7000000,Villarreal Club de Fútbol S.A.D.,laliga,16,1416.0,1.9,1.3,1.3,0.2,2.8,0.9,0.4,-,6.83
+355627,1421,Sergio,Akieme,Sergio Akieme,Defender,Left-Back,27,7000000,Stade de Reims,ligue-1,12,1069.0,1.4,0.6,1.2,0.3,2.5,0.3,0.3,-,6.66
+246291,150,Diego,Llorente,Diego Llorente,Defender,Centre-Back,31,7000000,Real Betis Balompié S.A.D.,laliga,16,1405.0,1.2,1.7,0.8,0.4,4.8,0.5,0.7,1,6.79
+215876,1003,Ricardo,Pereira,Ricardo Pereira,Defender,Right-Back,31,7000000,Leicester City Football Club,premier-league,2,148.0,1.5,0.5,0.5,-,-,1.5,0.5,-,5.96
+111195,1237,Joël,Veltman,Joël Veltman,Defender,Right-Back,32,7000000,Brighton and Hove Albion Football Club,premier-league,11,958.0,2.0,1.0,1.1,0.5,2.9,1.7,0.5,-,6.67
+111196,46,Stefan,de Vrij,Stefan de Vrij,Defender,Centre-Back,32,7000000,Football Club Internazionale Milano S.p.A.,serie-a,,,,,,,,,,,
+362108,1082,Gabriel,Gudmundsson,Gabriel Gudmundsson,Defender,Left-Back,25,7000000,Lille Olympique Sporting Club,ligue-1,11(4),983.0,1.3,0.5,1.2,0.2,1.3,0.7,0.3,-,6.54
+157672,379,Vladimír,Coufal,Vladimír Coufal,Defender,Right-Back,32,7000000,West Ham United Football Club,premier-league,4(5),416.0,0.7,0.2,1.2,-,1.3,0.6,0.4,-,6.24
+338629,82,Sebastiaan,Bornauw,Sebastiaan Bornauw,Defender,Centre-Back,25,7000000,Verein für Leibesübungen Wolfsburg,bundesliga,7,630.0,1.0,1.3,1.3,1.3,3.7,0.6,1.7,-,6.71
+367284,273,Leo,Østigård,Leo Østigård,Defender,Centre-Back,25,7000000,Stade Rennais Football Club,ligue-1,10(2),893.0,1.3,0.6,1.3,0.4,5.3,0.6,0.6,-,6.75
+338285,621,Unai,Núñez,Unai Núñez,Defender,Centre-Back,27,7000000,Athletic Club Bilbao,laliga,3,270.0,0.7,4.0,0.7,1,4.3,0.3,0.7,-,7.19
+1089202,417,Moïse,Bombito,Moïse Bombito,Defender,Centre-Back,24,7000000,Olympique Gymnaste Club Nice Côte d'Azur,ligue-1,13,1145.0,1.3,0.7,0.8,0.1,5,0.5,0.8,1,6.61
+569383,167,Chrislain,Matsima,Chrislain Matsima,Defender,Centre-Back,22,7000000,Fußball-Club Augsburg 1907,bundesliga,8(2),766.0,0.4,2,0.5,0.1,4.0,0.4,1.1,-,6.6
+327251,82,Ridle,Baku,Ridle Baku,Defender,Right-Back,26,7000000,Verein für Leibesübungen Wolfsburg,bundesliga,13(1),1085.0,1.4,1.1,0.9,0.1,0.9,0.7,0.1,-,6.74
+175639,417,Jonathan,Clauss,Jonathan Clauss,Defender,Right-Back,32,6000000,Olympique Gymnaste Club Nice Côte d'Azur,ligue-1,10(1),858.0,2.5,1.7,0.9,-,2.4,0.9,0.2,-,7.25
+807128,667,Saïdou,Sow,Saïdou Sow,Defender,Centre-Back,22,6000000,Racing Club de Strasbourg Alsace,ligue-1,11(1),1019.0,0.8,1.3,0.6,0.8,2.9,0.5,0.8,-,6.25
+258987,940,Carl,Starfelt,Carl Starfelt,Defender,Centre-Back,29,6000000,Real Club Celta de Vigo S. A. D.,laliga,14(2),1277.0,1.2,1.3,0.6,0.4,4.5,0.3,0.8,-,6.68
+655006,667,Diego,Moreira,Diego Moreira,Defender,Left-Back,20,6000000,Racing Club de Strasbourg Alsace,ligue-1,13(2),1189.0,1.3,0.9,1.0,0.4,1.7,0.7,0.1,-,6.8
+249730,416,Guillermo,Maripán,Guillermo Maripán,Defender,Centre-Back,30,6000000,Torino Calcio,serie-a,5(1),361.0,1.0,1.3,0.7,0.5,3.5,0.2,-,-,6.53
+413843,167,Keven,Schlotterbeck,Keven Schlotterbeck,Defender,Centre-Back,27,6000000,Fußball-Club Augsburg 1907,bundesliga,12,1026.0,0.9,0.8,0.7,0.3,4.3,0.3,0.4,-,6.56
+351955,1005,Federico,Baschirotto,Federico Baschirotto,Defender,Centre-Back,28,6000000,Unione Sportiva Lecce,serie-a,16,1440.0,1.3,0.9,0.8,0.4,4.2,0.2,1.1,-,6.57
+251075,12,Zeki,Çelik,Zeki Çelik,Defender,Right-Back,27,6000000,Associazione Sportiva Roma,serie-a,15(1),1204.0,1.8,0.4,0.9,0.2,1.8,0.6,0.2,-,6.5
+555500,331,Jorge,Herrando,Jorge Herrando,Defender,Centre-Back,23,6000000,Club Atlético Osasuna,laliga,4(2),373.0,0.5,0.2,0.3,0.7,3.0,0.2,0.8,-,6.35
+183318,762,Jamaal,Lascelles,Jamaal Lascelles,Defender,Centre-Back,31,6000000,Newcastle United Football Club,premier-league,,,,,,,,,,,
+393512,86,Felix,Agu,Felix Agu,Defender,Right-Back,25,6000000,Sportverein Werder Bremen von 1899,bundesliga,10,805.0,1,0.8,0.7,-,2.1,0.6,0.2,1,6.64
+505194,1003,Luke,Thomas,Luke Thomas,Defender,Left-Back,23,6000000,Leicester City Football Club,premier-league,1,90.0,2,-,-,-,-,1,-,-,6.05
+711996,1041,Warmed,Omari,Warmed Omari,Defender,Centre-Back,24,6000000,Olympique Lyonnais,ligue-1,0(1),7.0,-,-,-,-,1,-,-,-,6.19
+429259,415,Mark,McKenzie,Mark McKenzie,Defender,Centre-Back,25,6000000,Toulouse Football Club,ligue-1,13,1145.0,1.6,0.8,1,0.6,3.8,0.5,0.8,-,6.6
+119211,86,Mitchell,Weiser,Mitchell Weiser,Defender,Right-Back,30,6000000,Sportverein Werder Bremen von 1899,bundesliga,13,1162.0,1.8,0.5,0.7,0.1,1.6,0.5,-,-,6.79
+118534,29,Michael,Keane,Michael Keane,Defender,Centre-Back,31,6000000,Everton Football Club,premier-league,9,810.0,1.1,1.1,1,0.7,5.6,0.3,0.7,-,6.71
+367466,1049,Thierry,Correia,Thierry Correia,Defender,Right-Back,25,6000000,Valencia Club de Fútbol S. A. D.,laliga,9(2),771.0,2.5,0.4,1.4,0.1,1.5,0.9,0.1,-,6.52
+297070,681,Hamari,Traoré,Hamari Traoré,Defender,Right-Back,32,6000000,Real Sociedad de Fútbol S.A.D.,laliga,4,314.0,2.8,0.8,1.0,0.3,2.8,0.8,0.3,-,6.86
+993645,46,Tomás,Palacios,Tomás Palacios,Defender,Centre-Back,21,6000000,Football Club Internazionale Milano S.p.A.,serie-a,0(2),10.0,-,0.5,-,-,-,-,-,-,6.1
+618809,1108,Manu,Sánchez,Manu Sánchez,Defender,Left-Back,24,6000000,Deportivo Alavés S.A.D.,laliga,11(2),1031.0,1.5,0.9,1.4,0.2,1.8,0.6,0.2,-,6.21
+501418,368,Adrià,Pedrosa,Adrià Pedrosa,Defender,Left-Back,26,6000000,Sevilla Fútbol Club S.A.D.,laliga,12(1),1011.0,2.4,0.7,1.2,0.2,2.4,1,0.3,-,6.65
+277384,237,Martin,Valjent,Martin Valjent,Defender,Centre-Back,29,6000000,Real Club Deportivo Mallorca S.A.D.,laliga,14,1241.0,1,0.7,0.4,0.1,5.1,0.1,0.4,-,6.56
+494880,931,Jorge,Cuenca,Jorge Cuenca,Defender,Centre-Back,25,6000000,Fulham Football Club,premier-league,1(3),93.0,0.3,0.3,-,-,3.3,0.8,-,-,6.15
+391780,86,Derrick,Köhn,Derrick Köhn,Defender,Left-Back,25,6000000,Sportverein Werder Bremen von 1899,bundesliga,7(5),710.0,0.6,0.3,0.8,0.1,1,0.1,0.3,-,6.57
+162434,86,Niklas,Stark,Niklas Stark,Defender,Centre-Back,29,5500000,Sportverein Werder Bremen von 1899,bundesliga,9(1),735.0,1.2,1,1.6,0.4,4,0.2,1.2,-,6.74
+597659,415,Charlie,Cresswell,Charlie Cresswell,Defender,Centre-Back,22,5000000,Toulouse Football Club,ligue-1,12(2),1063.0,1.0,1.1,0.9,0.1,4.4,0.8,0.7,1,6.65
+780630,1050,Willy,Kambwala,Willy Kambwala,Defender,Centre-Back,20,5000000,Villarreal Club de Fútbol S.A.D.,laliga,2,122.0,2.5,0.5,0.5,1,2.5,-,0.5,-,6.13
+203348,244,Chancel,Mbemba,Chancel Mbemba,Defender,Centre-Back,30,5000000,Olympique de Marseille,ligue-1,,,,,,,,,,,
+435228,749,Ardian,Ismajli,Ardian Ismajli,Defender,Centre-Back,28,5000000,Empoli Football Club S.r.l.,serie-a,16,1440.0,0.8,2.1,0.6,0.3,8.6,0.2,1.1,-,7.07
+198516,703,Harry,Toffolo,Harry Toffolo,Defender,Left-Back,29,5000000,Nottingham Forest Football Club,premier-league,0(1),36.0,2.0,-,-,1,3,-,-,-,6.24
+39728,12,Mats,Hummels,Mats Hummels,Defender,Centre-Back,36,5000000,Associazione Sportiva Roma,serie-a,2(2),223.0,4,1.5,-,-,3.3,0.3,0.3,1,6.89
+597432,89,Leopold,Querfeld,Leopold Querfeld,Defender,Centre-Back,21,5000000,1. Fußballclub Union Berlin,bundesliga,3(8),460.0,0.5,0.5,0.8,0.1,2.5,0.3,0.1,-,6.29
+448628,13,Javi,Galán,Javi Galán,Defender,Left-Back,30,5000000,Club Atlético de Madrid S.A.D.,laliga,7(2),591.0,2.2,0.6,1.9,-,0.6,1.1,0.1,-,6.79
+507344,969,Becir,Omeragic,Becir Omeragic,Defender,Centre-Back,22,5000000,Montpellier Hérault Sport Club,ligue-1,9(1),752.0,1.6,0.5,0.5,0.4,2.8,0.5,0.4,1,6.17
+93707,60,Christian,Günter,Christian Günter,Defender,Left-Back,31,5000000,Sport-Club Freiburg,bundesliga,14,1200.0,0.7,0.4,0.3,-,1.6,0.6,0.5,-,6.52
+711625,368,José Ángel,Carmona,José Ángel Carmona,Defender,Right-Back,22,5000000,Sevilla Fútbol Club S.A.D.,laliga,,,,,,,,,,,
+507345,79,Leonidas,Stergiou,Leonidas Stergiou,Defender,Right-Back,22,5000000,Verein für Bewegungsspiele Stuttgart 1893,bundesliga,3(1),212.0,2.3,0.5,-,-,1.5,-,-,-,6.5
+528892,677,Harry,Clarke,Harry Clarke,Defender,Right-Back,23,5000000,Ipswich Town Football Club,premier-league,3(2),287.0,1,0.6,0.8,-,2,0.4,0.8,-,5.9
+182904,13,Clément,Lenglet,Clément Lenglet,Defender,Centre-Back,29,5000000,Club Atlético de Madrid S.A.D.,laliga,8,656.0,0.8,1.1,1.8,0.3,4.1,0.1,0.6,-,6.87
+807165,244,Bamo,Meïté,Bamo Meïté,Defender,Centre-Back,23,5000000,Olympique de Marseille,ligue-1,0(3),24.0,-,-,0.3,-,-,-,-,-,6.02
+158863,131,Iñigo,Martínez,Iñigo Martínez,Defender,Centre-Back,33,5000000,Futbol Club Barcelona,laliga,17,1512.0,0.9,0.8,0.6,1.8,3.3,-,0.3,-,6.86
+702441,290,Sinaly,Diomandé,Sinaly Diomandé,Defender,Centre-Back,23,5000000,Association de la Jeunesse auxerroise,ligue-1,8(1),700.0,1.1,1,1.1,0.4,2.6,0.4,1,-,6.74
+493702,749,Mattia,Viti,Mattia Viti,Defender,Centre-Back,22,5000000,Empoli Football Club S.r.l.,serie-a,16,1440.0,2.4,1.8,0.8,0.1,4.1,0.5,0.9,-,6.85
+633530,410,Jordan,Zemura,Jordan Zemura,Defender,Left-Back,25,5000000,Udinese Calcio,serie-a,8(6),825.0,1.4,0.9,1.1,0.4,1.3,0.5,0.2,-,6.68
+906160,749,Saba,Goglichidze,Saba Goglichidze,Defender,Centre-Back,20,5000000,Empoli Football Club S.r.l.,serie-a,13,1051.0,2.4,1.1,0.8,-,2.5,0.6,0.5,-,6.55
+289255,621,Andoni,Gorosabel,Andoni Gorosabel,Defender,Right-Back,28,5000000,Athletic Club Bilbao,laliga,4(2),356.0,1.5,0.2,0.8,0.3,2,0.8,0.2,-,6.51
+251878,252,Aarón,Martín,Aarón Martín,Defender,Left-Back,27,5000000,Genoa Cricket and Football Club,serie-a,15,1280.0,2.2,0.5,1.4,0.1,1.5,0.4,0.3,-,6.78
+251876,237,Pablo,Maffeo,Pablo Maffeo,Defender,Right-Back,27,5000000,Real Club Deportivo Mallorca S.A.D.,laliga,12(1),1008.0,1.7,0.9,0.6,0.2,2.0,0.4,0.5,-,6.81
+229804,681,Aritz,Elustondo,Aritz Elustondo,Defender,Centre-Back,30,5000000,Real Sociedad de Fútbol S.A.D.,laliga,3(3),280.0,1,0.3,0.7,0.3,2.2,-,0.8,-,6.56
+322655,276,Flavius,Daniliuc,Flavius Daniliuc,Defender,Centre-Back,23,5000000,Verona Hellas Football Club,serie-a,5(5),590.0,1.7,0.6,0.8,0.4,1.3,0.7,0.1,-,6.27
+239802,398,Adam,Marusic,Adam Marusic,Defender,Right-Back,32,5000000,Società Sportiva Lazio S.p.A.,serie-a,8(7),848.0,1.0,0.3,0.3,0.1,1.5,0.4,0.1,-,6.38
+239962,82,Denis,Vavro,Denis Vavro,Defender,Centre-Back,28,5000000,Verein für Leibesübungen Wolfsburg,bundesliga,9(1),811.0,0.4,0.9,0.4,0.9,7.7,0.5,0.6,-,6.91
+361065,1082,Mitchel,Bakker,Mitchel Bakker,Defender,Left-Back,24,5000000,Lille Olympique Sporting Club,ligue-1,4(6),389.0,1.4,0.7,0.5,-,0.7,0.5,-,-,6.64
+318523,150,Romain,Perraud,Romain Perraud,Defender,Left-Back,27,5000000,Real Betis Balompié S.A.D.,laliga,13(3),1177.0,1.4,0.9,1.3,0.4,2.3,1.3,0.1,-,6.4
+356197,1050,Alfonso,Pedraza,Alfonso Pedraza,Defender,Left-Back,28,5000000,Villarreal Club de Fútbol S.A.D.,laliga,,,,,,,,,,,
+357003,1025,Martin,Erlić,Martin Erlić,Defender,Centre-Back,26,5000000,Bologna Football Club 1909,serie-a,,,,,,,,,,,
+632896,12321,Alejandro,Francés,Alejandro Francés,Defender,Centre-Back,22,5000000,Girona Fútbol Club S. A. D.,laliga,7(1),560.0,2.4,1.1,1.5,0.3,2.1,0.8,0.3,-,6.59
+353032,3709,Omar,Alderete,Omar Alderete,Defender,Centre-Back,28,5000000,Getafe Club de Fútbol S.A.D. Team Dubai,laliga,16,1427.0,1.3,1.1,0.8,0.4,4.4,0.3,0.6,-,6.88
+276896,398,Samuel,Gigot,Samuel Gigot,Defender,Centre-Back,31,5000000,Società Sportiva Lazio S.p.A.,serie-a,0(6),81.0,-,0.2,0.8,-,0.5,0.2,0.2,-,6.27
+258039,1421,Aurélio,Buta,Aurélio Buta,Defender,Right-Back,27,5000000,Stade de Reims,ligue-1,11(1),898.0,2.1,0.9,1.3,0.3,1.8,0.9,-,-,6.59
+345458,416,Sebastian,Walukiewicz,Sebastian Walukiewicz,Defender,Centre-Back,24,5000000,Torino Calcio,serie-a,10(2),878.0,1.2,1.1,1.3,0.2,2.5,0.4,0.3,-,6.4
+342046,677,Axel,Tuanzebe,Axel Tuanzebe,Defender,Centre-Back,27,5000000,Ipswich Town Football Club,premier-league,9,774.0,2,1.2,0.7,0.3,2.6,0.4,0.3,-,6.48
+661145,681,Jon,Aramburu,Jon Aramburu,Defender,Right-Back,22,5000000,Real Sociedad de Fútbol S.A.D.,laliga,13(2),1111.0,3.3,1.1,1.5,0.3,2.8,1.3,0.2,-,6.96
+382478,82,Cédric,Zesiger,Cédric Zesiger,Defender,Centre-Back,26,5000000,Verein für Leibesübungen Wolfsburg,bundesliga,5(2),521.0,1.9,0.4,2,0.1,4,0.9,0.7,-,6.32
+283227,415,Rasmus,Nicolaisen,Rasmus Nicolaisen,Defender,Centre-Back,27,5000000,Toulouse Football Club,ligue-1,7,624.0,0.9,1.4,0.6,0.1,3.6,0.3,0.7,1,6.73
+397225,252,Alessandro,Zanoli,Alessandro Zanoli,Defender,Right-Back,24,5000000,Genoa Cricket and Football Club,serie-a,9(5),820.0,1.1,0.3,1,0.1,1.4,0.3,0.1,-,6.46
+728733,252,Brooke,Norton-Cuffy,Brooke Norton-Cuffy,Defender,Right-Back,20,4500000,Genoa Cricket and Football Club,serie-a,0(4),100.0,0.3,0.3,0.3,-,-,0.3,-,-,6.08
+698259,410,Thomas,Kristensen,Thomas Kristensen,Defender,Centre-Back,22,4500000,Udinese Calcio,serie-a,3(3),367.0,0.8,0.5,0.7,0.3,2.3,0.5,0.3,-,6.17
+392956,130,Enrico,Delprato,Enrico Delprato,Defender,Right-Back,25,4500000,Parma Calcio 1913,serie-a,13(2),1272.0,0.7,0.9,0.2,0.9,3.8,0.3,1.3,-,6.75
+392516,1005,Antonino,Gallo,Antonino Gallo,Defender,Left-Back,24,4500000,Unione Sportiva Lecce,serie-a,13,1113.0,2,0.7,0.5,0.2,3.0,0.8,0.1,-,6.73
+290017,410,Hassane,Kamara,Hassane Kamara,Defender,Left-Back,30,4500000,Udinese Calcio,serie-a,8(4),661.0,1.3,0.8,0.7,0.1,1,0.5,0.2,-,6.61
+646738,180,Juan,Larios,Juan Larios,Defender,Left-Back,20,4500000,Southampton Football Club,premier-league,,,,,,,,,,,
+371371,714,Marash,Kumbulla,Marash Kumbulla,Defender,Centre-Back,24,4500000,Reial Club Deportiu Espanyol de Barcelona S.A.D.,laliga,14(1),1194.0,1.3,0.9,1.1,0.3,5.1,0.6,1.3,-,6.61
+202228,86,Milos,Veljkovic,Milos Veljkovic,Defender,Centre-Back,29,4500000,Sportverein Werder Bremen von 1899,bundesliga,4(1),405.0,0.4,0.2,0.2,-,2.8,0.8,1,-,6.46
+631007,5,Filippo,Terracciano,Filippo Terracciano,Defender,Right-Back,21,4500000,Associazione Calcio Milan,serie-a,4,359.0,1.5,0.5,1.8,0.3,0.8,0.8,-,-,6.49
+1086619,130,Giovanni,Leoni,Giovanni Leoni,Defender,Centre-Back,18,4500000,Parma Calcio 1913,serie-a,3(1),279.0,0.3,1.3,0.3,0.5,1.8,-,0.5,-,6.43
+485583,290,Ki-Jana,Hoever,Ki-Jana Hoever,Defender,Right-Back,22,4500000,Association de la Jeunesse auxerroise,ligue-1,12(1),954.0,1.7,0.8,1.0,0.3,1.9,0.7,0.1,-,6.59
+298583,366,Eray,Cömert,Eray Cömert,Defender,Centre-Back,26,4000000,Real Valladolid Club de Fútbol S.A.D.,laliga,12(2),976.0,1.1,0.9,0.9,0.1,2.3,0.4,0.7,-,6.17
+623024,1049,Jesús,Vázquez,Jesús Vázquez,Defender,Left-Back,21,4000000,Valencia Club de Fútbol S. A. D.,laliga,8(2),653.0,1.6,0.5,1.2,0.3,1.8,0.7,0.5,-,6.45
+707274,1049,César,Tárrega,César Tárrega,Defender,Centre-Back,22,4000000,Valencia Club de Fútbol S. A. D.,laliga,14,1227.0,1.3,0.6,1.6,0.9,4.4,0.4,0.4,-,6.59
+54906,46,Matteo,Darmian,Matteo Darmian,Defender,Right-Back,35,4000000,Football Club Internazionale Milano S.p.A.,serie-a,9(6),816.0,1.3,0.1,1,-,0.8,0.3,0.2,1,6.6
+741257,5,Álex,Jiménez,Álex Jiménez,Defender,Right-Back,19,4000000,Associazione Calcio Milan,serie-a,1,90.0,1,-,-,-,1,1,-,-,7.26
+566025,417,Mohamed,Abdelmonem,Mohamed Abdelmonem,Defender,Centre-Back,25,4000000,Olympique Gymnaste Club Nice Côte d'Azur,ligue-1,6(1),518.0,2.1,1.9,0.6,0.3,4.4,1,0.4,-,6.73
+1144700,430,Matías,Moreno,Matías Moreno,Defender,Centre-Back,21,4000000,Associazione Calcio Fiorentina,serie-a,,,,,,,,,,,
+527966,367,Andrei,Rațiu,Andrei Rațiu,Defender,Right-Back,26,4000000,Rayo Vallecano de Madrid S.A.D.,laliga,,,,,,,,,,,
+126719,1050,Juan,Bernat,Juan Bernat,Defender,Left-Back,31,4000000,Villarreal Club de Fútbol S.A.D.,laliga,1(9),205.0,0.9,0.1,-,0.1,0.4,0.1,0.1,-,6.33
+621802,86,Olivier,Deman,Olivier Deman,Defender,Left-Back,24,4000000,Sportverein Werder Bremen von 1899,bundesliga,0(8),57.0,0.8,0.1,0.1,-,0.4,0.6,0.1,-,6.15
+118689,6195,Leonardo,Spinazzola,Leonardo Spinazzola,Defender,Left-Back,31,4000000,Società Sportiva Calcio Napoli,serie-a,3(6),265.0,0.3,-,-,-,0.7,0.1,0.1,-,6.3
+298975,244,Pol,Lirola,Pol Lirola,Defender,Right-Back,27,4000000,Olympique de Marseille,ligue-1,4(4),360.0,1.0,-,0.8,0.3,0.6,0.8,0.3,-,6.26
+292534,35,Eric,Smith,Eric Smith,Defender,Centre-Back,27,4000000,Fußball-Club St. Pauli von 1910,bundesliga,14,1209.0,1.3,1.6,0.4,0.5,3.3,0.3,0.5,-,6.81
+713787,826,Jhoanner,Chávez,Jhoanner Chávez,Defender,Left-Back,22,4000000,Racing Club de Lens,ligue-1,7(2),587.0,1.0,0.7,1.1,-,1.3,0.6,0.1,-,6.67
+328609,244,Derek,Cornelius,Derek Cornelius,Defender,Centre-Back,27,4000000,Olympique de Marseille,ligue-1,6(3),554.0,1.1,0.4,1,0.7,2.8,0.2,0.3,-,6.44
+576121,281,Josh,Wilson-Esbrand,Josh Wilson-Esbrand,Defender,Left-Back,22,4000000,Manchester City Football Club,premier-league,,,,,,,,,,,
+334221,86,Amos,Pieper,Amos Pieper,Defender,Centre-Back,26,4000000,Sportverein Werder Bremen von 1899,bundesliga,3(5),318.0,0.9,1.3,0.1,0.1,1.5,0.4,0.4,-,6.31
+357796,276,Domagoj,Bradarić,Domagoj Bradarić,Defender,Left-Back,25,4000000,Verona Hellas Football Club,serie-a,,,,,,,,,,,
+746712,430,Pietro,Comuzzo,Pietro Comuzzo,Defender,Centre-Back,19,4000000,Associazione Calcio Fiorentina,serie-a,13,1129.0,1.9,1,1.2,0.2,2.8,0.2,0.9,-,6.87
+126557,826,Jonathan,Gradit,Jonathan Gradit,Defender,Centre-Back,32,4000000,Racing Club de Lens,ligue-1,9,754.0,2.0,1.3,1.7,0.3,2.9,1.0,0.4,-,6.84
+631927,12,Saud,Abdulhamid,Saud Abdulhamid,Defender,Right-Back,25,4000000,Associazione Sportiva Roma,serie-a,1(2),141.0,0.7,0.3,0.3,-,-,-,-,-,6.41
+696164,80,Tim,Oermann,Tim Oermann,Defender,Centre-Back,21,4000000,Verein für Leibesübungen Bochum 1848 Fußballgemeinschaft,bundesliga,7(3),615.0,0.9,0.8,0.8,0.4,1.3,0.5,0.4,-,6.07
+449796,331,Alejandro,Catena,Alejandro Catena,Defender,Centre-Back,30,4000000,Club Atlético Osasuna,laliga,16,1440.0,1.6,1.1,1.3,1.1,6.3,0.6,0.6,-,6.81
+451801,367,Abdul,Mumin,Abdul Mumin,Defender,Centre-Back,26,4000000,Rayo Vallecano de Madrid S.A.D.,laliga,16,1355.0,1.2,1.1,1,0.4,5.7,0.6,0.9,-,6.71
+822958,533,Tim,Drexler,Tim Drexler,Defender,Centre-Back,19,4000000,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,bundesliga,5(3),358.0,2.1,0.1,1,0.3,1,0.4,0.5,-,6.1
+192616,244,Ulisses,Garcia,Ulisses Garcia,Defender,Left-Back,28,4000000,Olympique de Marseille,ligue-1,4(4),394.0,1.1,0.3,0.5,0.3,0.9,0.9,-,-,6.73
+191217,150,Héctor,Bellerín,Héctor Bellerín,Defender,Right-Back,29,4000000,Real Betis Balompié S.A.D.,laliga,6(1),524.0,1.7,0.9,0.9,0.1,2,1.0,0.4,-,6.84
+951579,1041,Saël,Kumbedi,Saël Kumbedi,Defender,Right-Back,19,4000000,Olympique Lyonnais,ligue-1,2(1),177.0,1.7,1.3,1,1,1.7,0.3,-,-,6.41
+187718,1041,Clinton,Mata,Clinton Mata,Defender,Right-Back,32,4000000,Olympique Lyonnais,ligue-1,11(1),997.0,1.7,1.5,1.2,0.8,1.8,0.3,0.5,-,6.67
+861981,252,Alan,Matturro,Alan Matturro,Defender,Centre-Back,20,4000000,Genoa Cricket and Football Club,serie-a,7(1),651.0,1.1,1.4,0.9,-,3.1,1.1,0.3,-,6.48
+253341,873,Rob,Holding,Rob Holding,Defender,Centre-Back,29,4000000,Crystal Palace Football Club,premier-league,,,,,,,,,,,
+469976,738,Christopher,Operi,Christopher Operi,Defender,Left-Back,27,4000000,Le Havre Athletic Club,ligue-1,,,,,,,,,,,
+203746,826,Ruben,Aguilar,Ruben Aguilar,Defender,Right-Back,31,4000000,Racing Club de Lens,ligue-1,3(2),269.0,1.8,1.0,1,-,0.4,0.4,0.2,-,6.66
+221316,418,Lucas,Vázquez,Lucas Vázquez,Defender,Right-Back,33,4000000,Real Madrid Club de Fútbol,laliga,9(5),790.0,1.6,0.3,0.8,0.3,0.6,0.7,0.1,-,6.48
+605396,12,Samuel,Dahl,Samuel Dahl,Defender,Left-Back,21,4000000,Associazione Sportiva Roma,serie-a,0(2),41.0,1,-,1,-,-,0.5,-,-,6.07
+481834,2919,Andrea,Carboni,Andrea Carboni,Defender,Centre-Back,23,4000000,Associazione Calcio Monza,serie-a,12(1),1054.0,2.2,1.2,1.2,0.2,3.5,0.8,0.5,-,6.53
+441170,1244,Valentin,Rosier,Valentin Rosier,Defender,Right-Back,28,4000000,Club Deportivo Leganés S.A.D.,laliga,11(3),1052.0,2.6,1.2,1.4,0.3,3.6,0.9,0.1,-,6.69
+343959,80,Erhan,Masovic,Erhan Masovic,Defender,Centre-Back,26,4000000,Verein für Leibesübungen Bochum 1848 Fußballgemeinschaft,bundesliga,7,556.0,1,1.1,1,0.1,3.7,1.1,1,-,6.36
+732165,180,Ronnie,Edwards,Ronnie Edwards,Defender,Centre-Back,21,3800000,Southampton Football Club,premier-league,0(1),12.0,-,-,-,1,-,-,1,-,6.01
+503990,180,Nathan,Wood,Nathan Wood,Defender,Centre-Back,22,3800000,Southampton Football Club,premier-league,2(1),256.0,1.3,0.3,0.7,-,2.7,0.7,1,-,6.2
+35047,13,Axel,Witsel,Axel Witsel,Defender,Centre-Back,35,3500000,Club Atlético de Madrid S.A.D.,laliga,7(3),629.0,1.1,0.6,0.3,0.2,2.3,0.2,0.5,-,6.7
+210178,2919,Pablo,Marí,Pablo Marí,Defender,Centre-Back,31,3500000,Associazione Calcio Monza,serie-a,16,1440.0,1.3,2.2,1.4,0.4,4.7,0.6,1.2,-,6.89
+568333,1390,Adam,Obert,Adam Obert,Defender,Centre-Back,22,3500000,Cagliari Calcio,serie-a,4(5),368.0,1.3,1.2,0.9,0.1,1.9,0.7,0.4,-,6.51
+211637,969,Kiki,Kouyaté,Kiki Kouyaté,Defender,Centre-Back,27,3500000,Montpellier Hérault Sport Club,ligue-1,1(1),110.0,2,1.5,1.5,-,2.5,1,-,-,5.99
+124555,430,Cristiano,Biraghi,Cristiano Biraghi,Defender,Left-Back,32,3500000,Associazione Calcio Fiorentina,serie-a,5(3),431.0,0.5,0.5,0.5,0.1,1.3,0.6,-,-,6.43
+332560,826,Deiver,Machado,Deiver Machado,Defender,Left-Back,31,3500000,Racing Club de Lens,ligue-1,5(6),539.0,1.2,0.5,0.8,-,0.6,0.1,0.1,-,6.4
+320271,237,Toni,Lato,Toni Lato,Defender,Left-Back,27,3500000,Real Club Deportivo Mallorca S.A.D.,laliga,3(2),263.0,1.4,0.6,1,-,1.8,0.4,-,-,6.35
+196231,18,Marvin,Friedrich,Marvin Friedrich,Defender,Centre-Back,29,3500000,Borussia Verein für Leibesübungen 1900 Mönchengladbach,bundesliga,6(4),597.0,0.6,0.2,0.2,0.6,3.2,0.2,0.9,-,6.63
+86784,150,Ricardo,Rodríguez,Ricardo Rodríguez,Defender,Left-Back,32,3500000,Real Betis Balompié S.A.D.,laliga,4(2),337.0,1.7,0.5,0.5,0.2,1.8,0.7,-,-,6.51
+346567,398,Luca,Pellegrini,Luca Pellegrini,Defender,Left-Back,25,3500000,Società Sportiva Lazio S.p.A.,serie-a,3(5),348.0,0.6,0.6,1,-,0.5,0.4,-,-,6.54
+461019,2919,Samuele,Birindelli,Samuele Birindelli,Defender,Right-Back,25,3500000,Associazione Calcio Monza,serie-a,3(3),296.0,1.3,-,0.8,-,0.8,0.3,0.2,-,6.36
+815078,60,Jordy,Makengo,Jordy Makengo,Defender,Left-Back,23,3500000,Sport-Club Freiburg,bundesliga,0(7),66.0,0.7,-,-,-,0.7,-,-,-,6.11
+262300,180,Ryan,Manning,Ryan Manning,Defender,Left-Back,28,3500000,Southampton Football Club,premier-league,9,666.0,1.7,0.9,1.1,0.1,1.4,0.7,0.8,-,6.61
+278531,1390,Sebastiano,Luperto,Sebastiano Luperto,Defender,Centre-Back,28,3500000,Cagliari Calcio,serie-a,16,1440.0,1.6,0.9,0.8,0.6,4.6,0.3,0.4,-,6.64
+485965,995,Nicolas,Cozza,Nicolas Cozza,Defender,Left-Back,25,3500000,Football Club de Nantes,ligue-1,10(2),931.0,2.3,0.9,0.7,0.1,2,0.8,0.3,-,6.5
+397171,290,Gideon,Mensah,Gideon Mensah,Defender,Left-Back,26,3500000,Association de la Jeunesse auxerroise,ligue-1,9(1),834.0,2.6,2.1,1.4,0.1,2.3,1.5,0.1,-,7.01
+388294,2036,Omar,Traoré,Omar Traoré,Defender,Right-Back,26,3500000,1. Fußballclub Heidenheim 1846,bundesliga,12,1024.0,1.5,0.8,0.9,0.2,1.7,0.2,0.2,-,6.44
+182875,995,Jean-Charles,Castelletto,Jean-Charles Castelletto,Defender,Centre-Back,29,3500000,Football Club de Nantes,ligue-1,13,1153.0,1.1,0.7,1.2,0.2,5.1,0.4,0.4,-,6.42
+131075,46,Francesco,Acerbi,Francesco Acerbi,Defender,Centre-Back,36,3500000,Football Club Internazionale Milano S.p.A.,serie-a,9,672.0,0.7,1.7,0.4,0.2,2.9,0.1,0.7,-,6.99
+490423,1047,Ignace,Van der Brempt,Ignace Van der Brempt,Defender,Right-Back,22,3000000,Calcio Como,serie-a,,,,,,,,,,,
+1076815,940,Javi,Rodríguez,Javi Rodríguez,Defender,Centre-Back,21,3000000,Real Club Celta de Vigo S. A. D.,laliga,10(6),1051.0,1.4,1,0.8,0.3,2.2,0.5,0.1,-,6.47
+705395,131,Gerard,Martín,Gerard Martín,Defender,Left-Back,22,3000000,Futbol Club Barcelona,laliga,4(7),389.0,0.9,0.4,0.5,0.4,0.8,0.3,0.2,-,6.28
+622722,269,Colin,Kleine-Bekel,Colin Kleine-Bekel,Defender,Centre-Back,21,3000000,Kieler Sportvereinigung Holstein von 1900,bundesliga,,,,,,,,,,,
+354352,1005,Frédéric,Guilbert,Frédéric Guilbert,Defender,Right-Back,30,3000000,Unione Sportiva Lecce,serie-a,12,936.0,2.3,1.1,1,0.2,2.7,0.5,0.4,-,6.65
+494236,1005,Andy,Pelmard,Andy Pelmard,Defender,Centre-Back,24,3000000,Unione Sportiva Lecce,serie-a,1(2),127.0,2,-,0.7,-,1.3,-,-,-,6.21
+636093,940,Carlos,Domínguez,Carlos Domínguez,Defender,Centre-Back,23,3000000,Real Club Celta de Vigo S. A. D.,laliga,4(2),344.0,1.2,0.7,0.3,-,3.3,0.5,0.7,1,6.45
+255501,621,Iñigo,Lekue,Iñigo Lekue,Defender,Right-Back,31,3000000,Athletic Club Bilbao,laliga,,,,,,,,,,,
+1077175,252,Honest,Ahanor,Honest Ahanor,Defender,Left-Back,16,3000000,Genoa Cricket and Football Club,serie-a,1(1),85.0,1,-,-,-,1,1,-,-,6.08
+891998,417,Antoine,Mendy,Antoine Mendy,Defender,Right-Back,20,3000000,Olympique Gymnaste Club Nice Côte d'Azur,ligue-1,4(4),400.0,2.4,0.5,0.5,0.4,1.9,0.8,0.3,-,6.47
+12282,12321,Daley,Blind,Daley Blind,Defender,Centre-Back,34,3000000,Girona Fútbol Club S. A. D.,laliga,12(2),1085.0,1.4,0.9,0.4,0.1,2.5,0.4,0.4,-,6.66
+344596,826,Malang,Sarr,Malang Sarr,Defender,Centre-Back,25,3000000,Racing Club de Lens,ligue-1,2(2),203.0,0.3,1.3,-,-,0.8,-,0.3,-,6.12
+211474,417,Ali,Abdi,Ali Abdi,Defender,Left-Back,31,3000000,Olympique Gymnaste Club Nice Côte d'Azur,ligue-1,6(2),580.0,2,0.4,1.3,0.1,1.4,0.9,0.4,-,6.94
+344864,995,Jean-Kévin,Duverne,Jean-Kévin Duverne,Defender,Centre-Back,27,3000000,Football Club de Nantes,ligue-1,7(2),540.0,2.3,0.9,1.6,0.1,2.6,1.3,0.3,-,6.48
+160241,533,Kevin,Akpoguma,Kevin Akpoguma,Defender,Centre-Back,29,3000000,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,bundesliga,10(3),923.0,1.3,0.8,1.4,0.2,4.0,0.7,1.6,-,6.54
+208172,1390,Mateusz,Wieteska,Mateusz Wieteska,Defender,Centre-Back,27,3000000,Cagliari Calcio,serie-a,1(1),107.0,0.5,3.0,-,0.5,1.5,-,0.5,-,6.64
+691892,24,Nathaniel,Brown,Nathaniel Brown,Defender,Left-Back,21,3000000,Eintracht Frankfurt Fußball AG,bundesliga,5(2),477.0,2.1,0.3,0.4,0.3,2.1,0.6,-,-,7.27
+336125,416,Mërgim,Vojvoda,Mërgim Vojvoda,Defender,Right-Back,29,3000000,Torino Calcio,serie-a,9(4),783.0,0.9,0.4,0.8,0.2,1.2,0.5,0.2,-,6.39
+275303,273,Hans,Hateboer,Hans Hateboer,Defender,Right-Back,30,3000000,Stade Rennais Football Club,ligue-1,10(5),927.0,1.3,0.8,0.9,0.3,1.9,0.7,0.3,-,6.57
+388363,167,Maximilian,Bauer,Maximilian Bauer,Defender,Centre-Back,24,3000000,Fußball-Club Augsburg 1907,bundesliga,6(3),538.0,1.3,0.7,0.7,0.1,3.4,0.6,0.3,-,6.39
+143798,533,Pavel,Kaderabek,Pavel Kaderabek,Defender,Right-Back,32,3000000,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,bundesliga,,,,,,,,,,,
+128901,1003,Conor,Coady,Conor Coady,Defender,Centre-Back,31,3000000,Leicester City Football Club,premier-league,4(1),367.0,1,0.6,0.4,-,2.8,0.2,1.6,-,5.99
+673514,3911,Abdoulaye,Ndiaye,Abdoulaye Ndiaye,Defender,Centre-Back,22,3000000,Stade brestois 29,ligue-1,5,417.0,2.2,0.8,1.0,0.2,5.8,0.2,0.4,-,6.81
+822331,714,Omar,El Hilali,Omar El Hilali,Defender,Right-Back,21,3000000,Reial Club Deportiu Espanyol de Barcelona S.A.D.,laliga,,,,,,,,,,,
+364409,290,Gabriel,Osho,Gabriel Osho,Defender,Centre-Back,26,3000000,Association de la Jeunesse auxerroise,ligue-1,12,1005.0,1,0.9,0.7,0.7,4.3,0.4,1.2,-,6.75
+364827,1421,Cédric,Kipré,Cédric Kipré,Defender,Centre-Back,28,3000000,Stade de Reims,ligue-1,10(2),881.0,1.8,1.3,0.7,0.6,4.8,0.4,0.6,-,6.82
+364857,969,Falaye,Sacko,Falaye Sacko,Defender,Right-Back,29,3000000,Montpellier Hérault Sport Club,ligue-1,10,852.0,1.3,1.1,1.1,0.4,0.9,0.7,0.5,-,6.0
+524925,969,Modibo,Sagnan,Modibo Sagnan,Defender,Centre-Back,25,3000000,Montpellier Hérault Sport Club,ligue-1,12(2),1106.0,1.9,1.2,1.5,0.3,3.8,0.8,0.5,-,6.43
+658115,331,Abel,Bretones,Abel Bretones,Defender,Left-Back,24,3000000,Club Atlético Osasuna,laliga,11(5),1020.0,1.4,0.6,0.6,0.2,1.7,0.8,0.1,-,6.56
+249636,738,Gautier,Lloris,Gautier Lloris,Defender,Centre-Back,29,3000000,Le Havre Athletic Club,ligue-1,15,1350.0,2.4,0.5,0.8,0.3,5.0,0.7,0.3,-,6.65
+250153,6195,Pasquale,Mazzocchi,Pasquale Mazzocchi,Defender,Right-Back,29,3000000,Società Sportiva Calcio Napoli,serie-a,5(5),391.0,0.5,0.3,0.4,0.1,1.1,0.4,0.1,-,6.34
+127108,367,Florian,Lejeune,Florian Lejeune,Defender,Centre-Back,33,3000000,Rayo Vallecano de Madrid S.A.D.,laliga,17,1526.0,1.4,0.8,1.2,0.3,4.5,0.5,0.8,-,6.83
+289446,1390,Yerry,Mina,Yerry Mina,Defender,Centre-Back,30,3000000,Cagliari Calcio,serie-a,13,1091.0,2.1,1,1.3,0.7,4.7,0.4,1.2,-,6.74
+286384,1050,Eric,Bailly,Eric Bailly,Defender,Centre-Back,30,3000000,Villarreal Club de Fútbol S.A.D.,laliga,7(2),581.0,1.2,0.7,0.7,0.2,2.6,0.1,0.7,-,6.26
+133731,2036,Patrick,Mainka,Patrick Mainka,Defender,Centre-Back,30,3000000,1. Fußballclub Heidenheim 1846,bundesliga,14,1260.0,1.9,2.1,0.6,0.2,4.6,0.6,1.1,-,6.7
+358250,940,Joseph,Aidoo,Joseph Aidoo,Defender,Centre-Back,29,3000000,Real Club Celta de Vigo S. A. D.,laliga,0(1),1.0,1,-,-,-,-,-,-,-,6.16
+193900,167,Marius,Wolf,Marius Wolf,Defender,Right-Back,29,3000000,Fußball-Club Augsburg 1907,bundesliga,12(2),948.0,0.9,0.7,0.4,0.1,1.7,0.9,0.2,-,6.63
+310458,276,Giangiacomo,Magnani,Giangiacomo Magnani,Defender,Centre-Back,29,3000000,Verona Hellas Football Club,serie-a,10(4),931.0,1.4,0.9,0.4,0.2,4.3,-,0.6,-,6.31
+99331,1003,Jannik,Vestergaard,Jannik Vestergaard,Defender,Centre-Back,32,3000000,Leicester City Football Club,premier-league,7(1),646.0,1.8,1.1,0.9,-,4.8,0.5,0.8,-,6.61
+385105,415,Gabriel,Suazo,Gabriel Suazo,Defender,Left-Back,27,3000000,Toulouse Football Club,ligue-1,7(6),736.0,1.9,1.1,0.7,-,0.6,1.1,0.1,-,6.82
+538996,368,Tanguy,Nianzou,Tanguy Nianzou,Defender,Centre-Back,22,3000000,Sevilla Fútbol Club S.A.D.,laliga,6,519.0,1.2,1.3,1.7,0.2,4.3,0.2,-,1,6.61
+248732,276,Paweł,Dawidowicz,Paweł Dawidowicz,Defender,Centre-Back,29,3000000,Verona Hellas Football Club,serie-a,,,,,,,,,,,
+295630,167,Dimitrios,Giannoulis,Dimitrios Giannoulis,Defender,Left-Back,29,2800000,Fußball-Club Augsburg 1907,bundesliga,,,,,,,,,,,
+390688,3709,Juan,Iglesias,Juan Iglesias,Defender,Right-Back,26,2800000,Getafe Club de Fútbol S.A.D. Team Dubai,laliga,13(4),1245.0,2.5,1.6,1.3,0.2,3.2,1.4,0.2,-,6.72
+195633,180,Charlie,Taylor,Charlie Taylor,Defender,Left-Back,31,2800000,Southampton Football Club,premier-league,2(4),218.0,1.2,0.5,0.3,-,3.3,0.2,0.5,-,6.38
+520840,237,José,Copete,José Copete,Defender,Centre-Back,25,2800000,Real Club Deportivo Mallorca S.A.D.,laliga,,,,,,,,,,,
+227084,2036,Benedikt,Gimber,Benedikt Gimber,Defender,Centre-Back,27,2800000,1. Fußballclub Heidenheim 1846,bundesliga,14,1220.0,3,1.1,2.0,0.1,4.8,0.8,0.6,-,6.61
+655456,749,Saba,Sazonov,Saba Sazonov,Defender,Centre-Back,22,2800000,Empoli Football Club S.r.l.,serie-a,0(1),2.0,-,-,-,-,-,-,1,-,5.88
+615350,366,Cenk,Özkacar,Cenk Özkacar,Defender,Centre-Back,24,2500000,Real Valladolid Club de Fútbol S.A.D.,laliga,3(1),196.0,0.8,1.8,0.3,-,4.3,0.8,0.5,-,6.41
+599419,60,Max,Rosenfelder,Max Rosenfelder,Defender,Centre-Back,21,2500000,Sport-Club Freiburg,bundesliga,4(8),519.0,1.3,0.3,0.5,0.2,2.7,0.1,0.2,-,6.32
+668276,1108,Hugo,Novoa,Hugo Novoa,Defender,Right-Back,21,2500000,Deportivo Alavés S.A.D.,laliga,2(2),220.0,2.0,-,0.3,-,1.3,-,0.3,-,6.32
+709372,714,Carlos,Romero,Carlos Romero,Defender,Left-Back,23,2500000,Reial Club Deportiu Espanyol de Barcelona S.A.D.,laliga,12(4),1049.0,1.9,0.5,1.0,0.2,1.7,1.0,0.1,-,6.42
+830108,86,Julián,Malatini,Julián Malatini,Defender,Centre-Back,23,2500000,Sportverein Werder Bremen von 1899,bundesliga,5(2),430.0,1.4,1.0,1.3,0.3,2.1,0.9,0.4,-,6.66
+369267,1049,Maximiliano,Caufriez,Maximiliano Caufriez,Defender,Centre-Back,27,2500000,Valencia Club de Fútbol S. A. D.,laliga,1,90.0,1,1,3,1,4,-,1,-,6.01
+948537,79,Anrie,Chase,Anrie Chase,Defender,Centre-Back,20,2500000,Verein für Bewegungsspiele Stuttgart 1893,bundesliga,7(4),684.0,0.8,0.7,0.9,0.5,2.9,0.2,0.5,-,6.45
+184528,762,Emil,Krafth,Emil Krafth,Defender,Right-Back,30,2500000,Newcastle United Football Club,premier-league,2(1),241.0,0.7,0.7,0.7,0.3,3.3,0.3,1.3,-,6.49
+371141,533,Stanley,Nsoki,Stanley Nsoki,Defender,Centre-Back,25,2500000,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,bundesliga,7(1),552.0,0.9,1.9,0.6,0.1,2.9,0.3,0.3,1,6.45
+176139,252,Mattia,Bani,Mattia Bani,Defender,Centre-Back,31,2500000,Genoa Cricket and Football Club,serie-a,9,711.0,0.6,1.3,0.2,0.2,3.4,0.2,0.3,-,6.42
+174196,3911,Kenny,Lala,Kenny Lala,Defender,Right-Back,33,2500000,Stade brestois 29,ligue-1,11(1),1066.0,2.8,0.9,0.7,0.3,2,1.1,0.7,-,6.81
+171679,543,Matt,Doherty,Matt Doherty,Defender,Right-Back,32,2500000,Wolverhampton Wanderers Football Club,premier-league,5(4),444.0,1.1,0.4,0.7,0.3,1.3,0.2,0.3,1,6.35
+384859,995,Fabien,Centonze,Fabien Centonze,Defender,Right-Back,28,2500000,Football Club de Nantes,ligue-1,1(1),78.0,1.5,0.5,0.5,-,2.5,1,-,1,6.25
+392569,1390,Gabriele,Zappa,Gabriele Zappa,Defender,Right-Back,25,2500000,Cagliari Calcio,serie-a,16,1396.0,1.2,0.6,0.8,0.1,2.4,0.4,0.8,-,6.51
+170472,1049,Dimitri,Foulquier,Dimitri Foulquier,Defender,Right-Back,31,2500000,Valencia Club de Fútbol S. A. D.,laliga,8(7),817.0,1.6,0.3,0.9,-,1.2,0.4,-,-,6.19
+168989,39,Silvan,Widmer,Silvan Widmer,Defender,Right-Back,31,2500000,1. Fußball- und Sportverein Mainz 05,bundesliga,1(10),155.0,0.5,0.3,0.2,0.2,0.8,0.1,-,-,6.13
+955253,543,Bastien,Meupiyou,Bastien Meupiyou,Defender,Centre-Back,18,2500000,Wolverhampton Wanderers Football Club,premier-league,,,,,,,,,,,
+166677,714,Brian,Oliván,Brian Oliván,Defender,Left-Back,30,2500000,Reial Club Deportiu Espanyol de Barcelona S.A.D.,laliga,8(5),728.0,0.7,0.5,0.8,-,1.2,0.6,0.2,-,6.29
+422466,1244,Javi,Hernández,Javi Hernández,Defender,Left-Back,26,2500000,Club Deportivo Leganés S.A.D.,laliga,12(2),1075.0,1.2,1.1,1.9,0.2,3.3,1.2,0.2,-,6.53
+135492,150,Youssouf,Sabaly,Youssouf Sabaly,Defender,Right-Back,31,2500000,Real Betis Balompié S.A.D.,laliga,9(2),828.0,1.8,0.5,1.1,0.4,1.8,0.5,0.2,-,6.49
+129444,12321,David,López,David López,Defender,Centre-Back,35,2500000,Girona Fútbol Club S. A. D.,laliga,15(1),1386.0,1.0,0.6,0.3,0.4,3.6,0.6,0.6,-,6.49
+127076,89,Jérôme,Roussillon,Jérôme Roussillon,Defender,Left-Back,31,2500000,1. Fußballclub Union Berlin,bundesliga,0(1),10.0,-,-,-,-,1,-,-,-,6.02
+435796,82,Kilian,Fischer,Kilian Fischer,Defender,Right-Back,24,2500000,Verein für Leibesübungen Wolfsburg,bundesliga,12(2),1014.0,1.6,0.6,1.1,0.1,3.2,1.7,0.2,-,6.34
+195246,79,Pascal,Stenzel,Pascal Stenzel,Defender,Right-Back,28,2500000,Verein für Bewegungsspiele Stuttgart 1893,bundesliga,2(1),115.0,0.3,-,0.3,-,1.3,0.3,0.3,-,6.04
+200056,398,Elseid,Hysaj,Elseid Hysaj,Defender,Right-Back,30,2500000,Società Sportiva Lazio S.p.A.,serie-a,0(2),9.0,0.5,-,-,-,0.5,-,-,-,6.15
+288429,167,Mads,Pedersen,Mads Pedersen,Defender,Left-Back,28,2500000,Fußball-Club Augsburg 1907,bundesliga,2(3),218.0,1.2,0.4,1,-,1,0.2,-,-,6.06
+274461,80,Felix,Passlack,Felix Passlack,Defender,Right-Back,26,2500000,Verein für Leibesübungen Bochum 1848 Fußballgemeinschaft,bundesliga,14,1142.0,2.3,0.6,1.3,0.1,1.5,1.2,0.6,-,6.35
+255788,677,Cameron,Burgess,Cameron Burgess,Defender,Centre-Back,29,2500000,Ipswich Town Football Club,premier-league,8,720.0,0.8,0.8,0.3,0.3,7.1,-,1.1,-,6.89
+324223,180,James,Bree,James Bree,Defender,Right-Back,27,2500000,Southampton Football Club,premier-league,2(1),137.0,1,0.3,-,-,1.3,0.3,0.3,-,6.19
+842338,969,Enzo,Tchato,Enzo Tchato,Defender,Right-Back,22,2500000,Montpellier Hérault Sport Club,ligue-1,9(6),972.0,1.4,0.9,0.6,0.1,1.7,0.8,0.3,-,6.31
+242661,35,Manolis,Saliakas,Manolis Saliakas,Defender,Right-Back,28,2500000,Fußball-Club St. Pauli von 1910,bundesliga,11(2),969.0,1.5,0.8,0.5,0.1,1.5,0.5,0.2,-,6.59
+344072,995,Kelvin,Amian,Kelvin Amian,Defender,Right-Back,26,2500000,Football Club de Nantes,ligue-1,9(3),886.0,2.2,0.2,1.2,0.3,1.8,0.3,0.3,-,6.56
+225963,410,Lautaro,Giannetti,Lautaro Giannetti,Defender,Centre-Back,31,2500000,Udinese Calcio,serie-a,11(1),846.0,1.8,1.3,0.5,0.4,3.3,0.5,0.8,2,6.55
+335993,35,Philipp,Treu,Philipp Treu,Defender,Left-Back,24,2500000,Fußball-Club St. Pauli von 1910,bundesliga,13,1123.0,1.8,0.5,0.7,0.4,1.4,1.1,0.2,-,6.5
+340177,1421,Thibault,De Smet,Thibault De Smet,Defender,Left-Back,26,2500000,Stade de Reims,ligue-1,,,,,,,,,,,
+342877,410,Enzo,Ebosse,Enzo Ebosse,Defender,Centre-Back,25,2500000,Udinese Calcio,serie-a,0(2),90.0,-,0.5,0.5,0.5,0.5,1,1.5,-,6.25
+955281,1421,Nhoa,Sangui,Nhoa Sangui,Defender,Left-Back,18,2500000,Stade de Reims,ligue-1,5(7),577.0,0.7,0.3,0.4,-,0.8,0.3,0.2,-,6.22
+289432,618,Dylan,Batubinsika,Dylan Batubinsika,Defender,Centre-Back,28,2500000,Association sportive de Saint-Étienne Loire,ligue-1,13(2),1223.0,1,1.9,1.1,0.3,4.8,0.4,0.5,1,6.4
+72441,800,Rafael,Tolói,Rafael Tolói,Defender,Centre-Back,34,2500000,Atalanta Bergamasca Calcio S.p.a.,serie-a,1(1),114.0,2,1,1,-,0.5,1,-,-,6.62
+538998,738,Timothée,Pembélé,Timothée Pembélé,Defender,Right-Back,22,2500000,Le Havre Athletic Club,ligue-1,7,586.0,1.7,0.6,0.7,0.1,3.1,0.6,0.6,-,6.53
+533568,1108,Nahuel,Tenaglia,Nahuel Tenaglia,Defender,Right-Back,28,2500000,Deportivo Alavés S.A.D.,laliga,15,1293.0,2.6,0.9,1.2,0.4,2.6,0.8,0.1,-,6.66
+491616,1244,Jackson,Porozo,Jackson Porozo,Defender,Centre-Back,24,2500000,Club Deportivo Leganés S.A.D.,laliga,,,,,,,,,,,
+85791,18,Stefan,Lainer,Stefan Lainer,Defender,Right-Back,32,2500000,Borussia Verein für Leibesübungen 1900 Mönchengladbach,bundesliga,2(6),299.0,1,0.5,0.5,-,1.4,-,0.4,1,6.28
+1047097,583,Yoram,Zague,Yoram Zague,Defender,Right-Back,18,2500000,Paris Saint-Germain Football Club,ligue-1,2(1),162.0,1.3,0.7,0.7,-,0.7,0.3,-,-,6.4
+543727,130,Botond,Balogh,Botond Balogh,Defender,Centre-Back,22,2500000,Parma Calcio 1913,serie-a,15(1),1249.0,1.4,1.1,0.4,1,4.9,0.3,1.3,-,6.67
+546926,607,Jay,Idzes,Jay Idzes,Defender,Centre-Back,24,2500000,Venezia Football Club,serie-a,14,1238.0,1.5,0.7,1.6,0.7,3.1,0.4,0.8,-,6.47
+15956,368,Jesús,Navas,Jesús Navas,Defender,Right-Back,39,2500000,Sevilla Fútbol Club S.A.D.,laliga,3(11),391.0,0.4,0.3,0.1,-,0.4,0.1,-,-,6.35
+118850,80,Ivan,Ordets,Ivan Ordets,Defender,Centre-Back,32,2500000,Verein für Leibesübungen Bochum 1848 Fußballgemeinschaft,bundesliga,7(1),628.0,0.9,1.9,0.6,0.3,5.1,0.3,0.8,-,6.34
+32113,2919,Armando,Izzo,Armando Izzo,Defender,Centre-Back,32,2500000,Associazione Calcio Monza,serie-a,14,1205.0,1.6,1.6,2.5,0.4,2.5,0.8,1.1,-,6.65
+311044,367,Alfonso,Espino,Alfonso Espino,Defender,Left-Back,32,2400000,Rayo Vallecano de Madrid S.A.D.,laliga,5,389.0,4.2,1.8,1.8,-,2.4,2.4,0.6,-,6.92
+445126,130,Emanuele,Valeri,Emanuele Valeri,Defender,Left-Back,26,2300000,Parma Calcio 1913,serie-a,13,1028.0,1.5,1.0,0.6,0.2,2.2,0.5,0.4,-,6.5
+392881,607,Antonio,Candela,Antonio Candela,Defender,Right-Back,24,2300000,Venezia Football Club,serie-a,11(1),921.0,2.3,0.7,0.8,0.2,1,0.5,0.4,1,6.28
+238868,331,Rubén,Peña,Rubén Peña,Defender,Right-Back,33,2200000,Club Atlético Osasuna,laliga,4(10),440.0,0.4,0.3,0.6,-,0.4,0.8,-,-,6.17
+169497,331,Juan,Cruz,Juan Cruz,Defender,Left-Back,32,2200000,Club Atlético Osasuna,laliga,7(3),601.0,0.8,0.2,0.7,0.6,1.8,0.4,-,-,6.22
+461843,3709,Juan,Berrocal,Juan Berrocal,Defender,Centre-Back,25,2200000,Getafe Club de Fútbol S.A.D. Team Dubai,laliga,6(2),568.0,1.4,1,1.0,0.9,3.5,0.4,0.1,-,6.32
+262939,237,Johan,Mojica,Johan Mojica,Defender,Left-Back,32,2200000,Real Club Deportivo Mallorca S.A.D.,laliga,14(3),1299.0,1.1,1.1,0.6,-,1.9,0.4,0.1,-,6.65
+336960,749,Giuseppe,Pezzella,Giuseppe Pezzella,Defender,Left-Back,27,2200000,Empoli Football Club S.r.l.,serie-a,14(1),1116.0,1.7,0.3,1.5,0.1,2.3,0.9,0.3,-,6.58
+358165,130,Yordan,Osorio,Yordan Osorio,Defender,Centre-Back,30,2200000,Parma Calcio 1913,serie-a,2(1),172.0,1.7,1.3,1.7,1,2,-,0.3,-,6.09
+272812,410,Kingsley,Ehizibue,Kingsley Ehizibue,Defender,Right-Back,29,2200000,Udinese Calcio,serie-a,16,1303.0,2,0.8,1.2,0.1,1.7,0.6,0.3,-,6.51
+57500,13,César,Azpilicueta,César Azpilicueta,Defender,Centre-Back,35,2000000,Club Atlético de Madrid S.A.D.,laliga,6,482.0,2,0.3,0.7,0.3,2.2,0.7,0.2,-,6.7
+216870,331,Nacho,Vidal,Nacho Vidal,Defender,Right-Back,29,2000000,Club Atlético Osasuna,laliga,1(4),120.0,0.4,-,0.4,0.2,1.2,0.6,-,-,6.05
+220878,969,Issiaga,Sylla,Issiaga Sylla,Defender,Left-Back,30,2000000,Montpellier Hérault Sport Club,ligue-1,9(2),688.0,1.7,0.6,0.8,0.1,1.8,0.9,0.3,-,6.45
+233124,405,Kortney,Hause,Kortney Hause,Defender,Centre-Back,29,2000000,Aston Villa Football Club,premier-league,,,,,,,,,,,
+263380,533,Attila,Szalai,Attila Szalai,Defender,Centre-Back,26,2000000,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,bundesliga,,,,,,,,,,,
+241229,3911,Jordan,Amavi,Jordan Amavi,Defender,Left-Back,30,2000000,Stade brestois 29,ligue-1,8(2),749.0,2.4,0.7,1.5,0.4,1.4,0.6,0.2,-,6.4
+282349,269,Timo,Becker,Timo Becker,Defender,Centre-Back,27,2000000,Kieler Sportvereinigung Holstein von 1900,bundesliga,12,1036.0,1.6,0.6,0.4,0.2,2.4,0.5,0.5,-,6.23
+278296,237,Antonio,Raíllo,Antonio Raíllo,Defender,Centre-Back,33,2000000,Real Club Deportivo Mallorca S.A.D.,laliga,17,1499.0,0.8,1.3,1.4,0.4,4.2,0.1,1,-,6.81
+1071956,1420,Emmanuel,Biumla,Emmanuel Biumla,Defender,Centre-Back,19,2000000,Angers Sporting Club de l'Ouest,ligue-1,8(1),732.0,1.6,0.7,0.6,-,3.9,0.6,0.6,-,6.61
+284595,1390,Tommaso,Augello,Tommaso Augello,Defender,Left-Back,30,2000000,Cagliari Calcio,serie-a,14(2),1145.0,1.4,0.7,0.4,0.3,2.6,0.4,0.3,-,6.7
+121477,543,Craig,Dawson,Craig Dawson,Defender,Centre-Back,34,2000000,Wolverhampton Wanderers Football Club,premier-league,9(3),883.0,1.2,0.8,0.4,0.3,4.0,0.3,0.9,2,6.32
+201737,969,Christopher,Jullien,Christopher Jullien,Defender,Centre-Back,31,2000000,Montpellier Hérault Sport Club,ligue-1,,,,,,,,,,,
+84435,89,Kevin,Vogt,Kevin Vogt,Defender,Centre-Back,33,2000000,1. Fußballclub Union Berlin,bundesliga,13,1123.0,0.6,0.5,0.6,0.7,4.4,0.2,0.5,-,6.56
+290273,714,Álvaro,Tejero,Álvaro Tejero,Defender,Right-Back,28,2000000,Reial Club Deportiu Espanyol de Barcelona S.A.D.,laliga,9(6),794.0,0.5,0.5,0.5,0.1,0.9,0.7,-,-,6.47
+160938,1047,Marc Oliver,Kempf,Marc Oliver Kempf,Defender,Centre-Back,29,2000000,Calcio Como,serie-a,,,,,,,,,,,
+806168,290,Paul,Joly,Paul Joly,Defender,Right-Back,24,2000000,Association de la Jeunesse auxerroise,ligue-1,5(5),513.0,2,1.4,0.4,0.5,1.9,1.2,-,-,6.31
+106405,167,Jeffrey,Gouweleeuw,Jeffrey Gouweleeuw,Defender,Centre-Back,33,2000000,Fußball-Club Augsburg 1907,bundesliga,14,1260.0,1.4,0.9,0.9,0.6,4.9,0.5,0.6,-,6.52
+142310,703,Willy,Boly,Willy Boly,Defender,Centre-Back,33,2000000,Nottingham Forest Football Club,premier-league,,,,,,,,,,,
+724104,18,Fabio,Chiarodia,Fabio Chiarodia,Defender,Centre-Back,19,2000000,Borussia Verein für Leibesübungen 1900 Mönchengladbach,bundesliga,0(7),45.0,0.3,0.1,0.3,-,1.3,-,-,-,6.1
+130365,5,Alessandro,Florenzi,Alessandro Florenzi,Defender,Right-Back,33,2000000,Associazione Calcio Milan,serie-a,,,,,,,,,,,
+112515,940,Marcos,Alonso,Marcos Alonso,Defender,Left-Back,34,2000000,Real Club Celta de Vigo S. A. D.,laliga,11(2),1081.0,1,1,0.7,0.4,3.7,0.6,0.3,-,6.64
+126540,1082,Samuel,Umtiti,Samuel Umtiti,Defender,Centre-Back,31,2000000,Lille Olympique Sporting Club,ligue-1,,,,,,,,,,,
+163744,180,Jack,Stephens,Jack Stephens,Defender,Centre-Back,30,2000000,Southampton Football Club,premier-league,10,797.0,1.5,0.5,0.8,0.1,3,1,0.6,-,5.93
+100986,1082,Thomas,Meunier,Thomas Meunier,Defender,Right-Back,33,2000000,Lille Olympique Sporting Club,ligue-1,7(5),622.0,1.2,1.0,0.7,0.1,1.8,0.4,0.3,-,6.66
+694509,1108,Moussa,Diarra,Moussa Diarra,Defender,Centre-Back,24,2000000,Deportivo Alavés S.A.D.,laliga,9(3),848.0,1.5,0.8,1.0,0.7,0.8,0.5,0.1,-,6.23
+741090,506,Jonas,Rouhi,Jonas Rouhi,Defender,Left-Back,20,2000000,Juventus Football Club,serie-a,1(3),191.0,1.0,0.8,1,-,0.3,0.3,-,-,6.3
+85295,367,Iván,Balliu,Iván Balliu,Defender,Right-Back,32,2000000,Rayo Vallecano de Madrid S.A.D.,laliga,7(6),681.0,0.8,0.5,0.7,-,1.3,0.6,0.2,-,6.25
+196793,80,Maximilian,Wittek,Maximilian Wittek,Defender,Left-Back,29,2000000,Verein für Leibesübungen Bochum 1848 Fußballgemeinschaft,bundesliga,14,1154.0,1.6,1,1.3,0.4,2.2,0.6,0.4,-,6.41
+192169,2036,Jonas,Föhrenbach,Jonas Föhrenbach,Defender,Left-Back,28,2000000,1. Fußballclub Heidenheim 1846,bundesliga,14,1227.0,1.7,0.8,0.6,0.1,2.1,0.5,0.2,-,6.46
+806793,290,Clément,Akpa,Clément Akpa,Defender,Left-Back,23,2000000,Association de la Jeunesse auxerroise,ligue-1,12(2),1084.0,1.9,1.1,0.2,0.5,3.5,0.6,0.4,-,6.66
+1018938,681,Jon,Martín,Jon Martín,Defender,Centre-Back,18,2000000,Real Sociedad de Fútbol S.A.D.,laliga,0(2),90.0,-,0.5,3,-,3,-,0.5,-,6.28
+794758,415,Warren,Kamanzi,Warren Kamanzi,Defender,Right-Back,24,2000000,Toulouse Football Club,ligue-1,7(7),679.0,1.6,0.4,0.7,0.1,0.9,0.6,-,-,6.47
+953901,1108,Santiago,Mouriño,Santiago Mouriño,Defender,Centre-Back,22,2000000,Deportivo Alavés S.A.D.,laliga,7(3),630.0,1.5,1.1,0.9,0.4,2.8,0.7,-,-,6.46
+93604,60,Lukas,Kübler,Lukas Kübler,Defender,Right-Back,32,2000000,Sport-Club Freiburg,bundesliga,14,1074.0,1.6,2,0.9,0.1,2.1,0.6,0.6,-,6.95
+592975,130,Woyo,Coulibaly,Woyo Coulibaly,Defender,Right-Back,25,2000000,Parma Calcio 1913,serie-a,10(2),905.0,1,0.7,0.8,0.5,1.3,0.5,0.2,1,6.28
+469211,749,Liberato,Cacace,Liberato Cacace,Defender,Left-Back,24,2000000,Empoli Football Club S.r.l.,serie-a,5(7),575.0,0.8,0.1,0.9,0.1,1.4,0.2,0.3,-,6.41
+468309,366,Lucas,Rosa,Lucas Rosa,Defender,Right-Back,24,2000000,Real Valladolid Club de Fútbol S.A.D.,laliga,16,1440.0,2.8,1.5,1.8,0.2,2.1,0.8,0.6,-,6.51
+334207,39,Maxim,Leitsch,Maxim Leitsch,Defender,Centre-Back,26,2000000,1. Fußball- und Sportverein Mainz 05,bundesliga,6(3),551.0,1.2,0.9,1.0,0.1,3.7,0.1,0.4,-,6.58
+466807,1244,Adrià,Altimira,Adrià Altimira,Defender,Right-Back,23,2000000,Club Deportivo Leganés S.A.D.,laliga,,,,,,,,,,,
+603940,472,Marvin,Park,Marvin Park,Defender,Right-Back,24,2000000,Unión Deportiva Las Palmas S.A.D.,laliga,5(4),497.0,1.2,0.6,1,0.1,1.3,1.3,0.3,-,6.2
+604320,79,Frans,Krätzig,Frans Krätzig,Defender,Left-Back,21,2000000,Verein für Bewegungsspiele Stuttgart 1893,bundesliga,1,57.0,2,-,1.0,-,1.0,2.0,1,-,6.6
+335147,749,Junior,Sambia,Junior Sambia,Defender,Right-Back,28,2000000,Empoli Football Club S.r.l.,serie-a,0(3),33.0,0.7,-,0.3,-,-,-,-,-,6.1
+400131,237,Siebe,Van der Heyden,Siebe Van der Heyden,Defender,Centre-Back,26,2000000,Real Club Deportivo Mallorca S.A.D.,laliga,,,,,,,,,,,
+611793,989,James,Hill,James Hill,Defender,Centre-Back,22,2000000,Association Football Club Bournemouth,premier-league,0(1),4.0,-,-,-,-,1,-,-,-,6.3
+361575,269,Tymoteusz,Puchacz,Tymoteusz Puchacz,Defender,Left-Back,25,2000000,Kieler Sportvereinigung Holstein von 1900,bundesliga,5(5),396.0,0.9,0.3,0.2,-,1.1,0.2,0.1,-,6.49
+358115,366,Luis,Pérez,Luis Pérez,Defender,Right-Back,29,2000000,Real Valladolid Club de Fútbol S.A.D.,laliga,17,1491.0,1.6,1.2,0.6,0.3,2.5,0.5,0.3,-,6.5
+354909,607,Giorgio,Altare,Giorgio Altare,Defender,Centre-Back,26,2000000,Venezia Football Club,serie-a,5(4),483.0,0.8,1.1,1.0,-,2.6,0.8,0.4,1,6.44
+353826,167,Robert,Gumny,Robert Gumny,Defender,Right-Back,26,2000000,Fußball-Club Augsburg 1907,bundesliga,0(1),23.0,-,-,-,-,-,2,-,-,6.04
+596122,367,Pep,Chavarría,Pep Chavarría,Defender,Left-Back,26,2000000,Rayo Vallecano de Madrid S.A.D.,laliga,9(4),839.0,1.4,1,0.5,0.2,2.7,0.8,0.3,-,6.56
+330208,252,Alessandro,Vogliacco,Alessandro Vogliacco,Defender,Centre-Back,26,2000000,Genoa Cricket and Football Club,serie-a,8(4),716.0,1.3,0.8,1.0,0.2,1.6,0.2,0.6,-,6.38
+580747,618,Yvann,Maçon,Yvann Maçon,Defender,Right-Back,26,2000000,Association sportive de Saint-Étienne Loire,ligue-1,4,289.0,1,-,2,0.3,1.5,1,0.5,-,6.15
+818448,252,Alessandro,Marcandalli,Alessandro Marcandalli,Defender,Centre-Back,22,2000000,Genoa Cricket and Football Club,serie-a,1(1),47.0,0.5,-,-,1,1,-,-,-,6.07
+546880,800,Brandon,Soppy,Brandon Soppy,Defender,Right-Back,22,2000000,Atalanta Bergamasca Calcio S.p.a.,serie-a,,,,,,,,,,,
+527425,677,Luke,Woolfenden,Luke Woolfenden,Defender,Centre-Back,26,2000000,Ipswich Town Football Club,premier-league,4(1),377.0,0.2,1.6,0.4,-,4.4,0.4,0.6,-,6.24
+527276,60,Kenneth,Schmidt,Kenneth Schmidt,Defender,Centre-Back,22,2000000,Sport-Club Freiburg,bundesliga,,,,,,,,,,,
+488755,80,Jakov,Medic,Jakov Medic,Defender,Centre-Back,26,2000000,Verein für Leibesübungen Bochum 1848 Fußballgemeinschaft,bundesliga,10(1),903.0,0.6,1.1,0.4,1,4.6,0.4,1.4,-,6.22
+346289,1049,Mouctar,Diakhaby,Mouctar Diakhaby,Defender,Centre-Back,28,2000000,Valencia Club de Fútbol S. A. D.,laliga,,,,,,,,,,,
+309944,749,Tyronne,Ebuehi,Tyronne Ebuehi,Defender,Right-Back,29,2000000,Empoli Football Club S.r.l.,serie-a,,,,,,,,,,,
+488785,276,Martin,Frese,Martin Frese,Defender,Left-Back,26,2000000,Verona Hellas Football Club,serie-a,3(2),336.0,2.6,1.2,1.4,-,2.8,0.6,0.2,-,6.69
+357884,714,Fernando,Calero,Fernando Calero,Defender,Centre-Back,29,1800000,Reial Club Deportiu Espanyol de Barcelona S.A.D.,laliga,2(1),187.0,1.3,1.7,0.7,0.3,6.7,0.3,1,-,6.89
+830890,667,Marvin,Senaya,Marvin Senaya,Defender,Right-Back,23,1800000,Racing Club de Strasbourg Alsace,ligue-1,1(6),191.0,0.9,1,0.6,-,1.1,0.9,0.3,-,6.2
+61812,621,Yuri,Berchiche,Yuri Berchiche,Defender,Left-Back,34,1800000,Athletic Club Bilbao,laliga,11(4),1045.0,1.1,0.7,0.6,0.4,2.1,0.5,0.1,-,6.54
+170929,3911,Massadio,Haidara,Massadio Haidara,Defender,Left-Back,32,1800000,Stade brestois 29,ligue-1,,,,,,,,,,,
+127573,39,Phillipp,Mwene,Phillipp Mwene,Defender,Left-Back,30,1800000,1. Fußball- und Sportverein Mainz 05,bundesliga,14,1249.0,1.7,1.1,0.5,-,1.6,0.6,0.3,-,6.88
+162029,940,Javier,Manquillo,Javier Manquillo,Defender,Right-Back,30,1800000,Real Club Celta de Vigo S. A. D.,laliga,7(2),499.0,0.8,0.8,1.0,0.4,1.3,0.8,0.3,-,6.24
+308989,1244,Sergio,González,Sergio González,Defender,Centre-Back,32,1800000,Club Deportivo Leganés S.A.D.,laliga,16(1),1483.0,1.2,1.6,1.1,0.1,5.8,0.4,0.8,1,6.77
+247377,1005,Kevin,Bonifazi,Kevin Bonifazi,Defender,Centre-Back,28,1800000,Unione Sportiva Lecce,serie-a,,,,,,,,,,,
+625202,130,Lautaro,Valenti,Lautaro Valenti,Defender,Centre-Back,25,1800000,Parma Calcio 1913,serie-a,0(1),16.0,-,-,-,1,-,-,-,-,6.13
+207917,1047,Alberto,Moreno,Alberto Moreno,Defender,Left-Back,32,1800000,Calcio Como,serie-a,14,1191.0,1.4,0.8,1,0.1,1.4,0.5,0.1,-,6.31
+701819,276,Daniele,Ghilardi,Daniele Ghilardi,Defender,Centre-Back,21,1600000,Verona Hellas Football Club,serie-a,5(2),551.0,1.4,1.0,1.4,0.1,4.9,0.9,0.6,-,6.62
+96718,621,Óscar,de Marcos,Óscar de Marcos,Defender,Right-Back,35,1500000,Athletic Club Bilbao,laliga,,,,,,,,,,,
+249513,3709,Diego,Rico,Diego Rico,Defender,Left-Back,31,1500000,Getafe Club de Fútbol S.A.D. Team Dubai,laliga,15(1),1347.0,2.6,1.0,0.9,0.2,1.4,0.9,0.1,-,6.76
+286949,416,Adam,Masina,Adam Masina,Defender,Centre-Back,30,1500000,Torino Calcio,serie-a,14(1),1304.0,1.6,1.1,1.1,0.1,3.5,1,0.9,-,6.87
+42412,985,Jonny,Evans,Jonny Evans,Defender,Centre-Back,36,1500000,Manchester United Football Club,premier-league,3(3),290.0,1.2,0.7,0.8,0.2,2.2,0.3,0.2,-,6.57
+15452,1050,Raúl,Albiol,Raúl Albiol,Defender,Centre-Back,39,1500000,Villarreal Club de Fútbol S.A.D.,laliga,13(1),1099.0,0.6,0.4,0.7,0.2,4.5,0.3,0.6,1,6.39
+794349,3911,Julien,Le Cardinal,Julien Le Cardinal,Defender,Centre-Back,27,1500000,Stade brestois 29,ligue-1,,,,,,,,,,,
+438971,472,Viti,Rozada,Viti Rozada,Defender,Right-Back,27,1500000,Unión Deportiva Las Palmas S.A.D.,laliga,10(5),911.0,2.3,1.1,1.3,0.6,1.5,0.3,0.2,-,6.57
+438961,607,Michael,Svoboda,Michael Svoboda,Defender,Centre-Back,26,1500000,Venezia Football Club,serie-a,15(1),1314.0,1.6,1.4,0.4,0.6,3.9,0.7,0.7,-,6.56
+710671,621,Adama,Boiro,Adama Boiro,Defender,Left-Back,22,1500000,Athletic Club Bilbao,laliga,6(1),468.0,1.4,0.9,0.9,-,1.9,0.4,0.4,-,6.5
+327863,1082,Akim,Zedadka,Akim Zedadka,Defender,Right-Back,29,1500000,Lille Olympique Sporting Club,ligue-1,,,,,,,,,,,
+73926,276,Davide,Faraoni,Davide Faraoni,Defender,Right-Back,33,1500000,Verona Hellas Football Club,serie-a,1(3),40.0,0.3,-,0.3,-,0.5,0.5,0.3,-,5.85
+80293,1082,Aïssa,Mandi,Aïssa Mandi,Defender,Centre-Back,33,1500000,Lille Olympique Sporting Club,ligue-1,10(1),861.0,1.5,0.5,0.4,0.3,1.7,0.4,0.7,-,6.54
+280730,681,Álvaro,Odriozola,Álvaro Odriozola,Defender,Right-Back,29,1500000,Real Sociedad de Fútbol S.A.D.,laliga,0(2),42.0,0.5,-,1,-,0.5,-,-,-,6.05
+494586,618,Mickaël,Nade,Mickaël Nade,Defender,Centre-Back,25,1500000,Association sportive de Saint-Étienne Loire,ligue-1,,,,,,,,,,,
+282700,1244,Enric,Franquesa,Enric Franquesa,Defender,Left-Back,27,1500000,Club Deportivo Leganés S.A.D.,laliga,7(5),615.0,1.4,0.4,0.7,0.2,0.8,0.3,0.1,-,6.43
+85177,873,Nathaniel,Clyne,Nathaniel Clyne,Defender,Right-Back,33,1500000,Crystal Palace Football Club,premier-league,3(4),301.0,1.6,0.4,-,0.1,1.4,0.1,0.1,-,6.05
+45683,60,Manuel,Gulde,Manuel Gulde,Defender,Centre-Back,33,1500000,Sport-Club Freiburg,bundesliga,,,,,,,,,,,
+314965,2919,Pedro,Pereira,Pedro Pereira,Defender,Right-Back,26,1500000,Associazione Calcio Monza,serie-a,13(2),1038.0,1.1,0.5,1.1,0.1,1.5,0.7,0.3,-,6.39
+450234,533,Marco,John,Marco John,Defender,Left-Back,22,1500000,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,bundesliga,,,,,,,,,,,
+159844,533,Christopher,Lenz,Christopher Lenz,Defender,Left-Back,30,1500000,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,bundesliga,,,,,,,,,,,
+340339,1244,Jorge,Sáenz,Jorge Sáenz,Defender,Centre-Back,28,1500000,Club Deportivo Leganés S.A.D.,laliga,8(1),622.0,1.8,1.2,1.4,-,5.8,0.4,0.4,-,6.89
+167491,252,Stefano,Sabelli,Stefano Sabelli,Defender,Right-Back,31,1500000,Genoa Cricket and Football Club,serie-a,11(4),900.0,1.9,0.6,1,0.4,1.7,1.3,0.1,-,6.46
+371686,1420,Carlens,Arcus,Carlens Arcus,Defender,Right-Back,28,1500000,Angers Sporting Club de l'Ouest,ligue-1,14(1),1175.0,2.3,1.2,1.3,-,2.9,1,0.1,-,6.6
+340853,366,Javi,Sánchez,Javi Sánchez,Defender,Centre-Back,27,1500000,Real Valladolid Club de Fútbol S.A.D.,laliga,11,887.0,1.1,0.7,0.6,0.8,4.5,0.3,1.1,-,6.38
+198709,1420,Cédric,Hountondji,Cédric Hountondji,Defender,Centre-Back,30,1500000,Angers Sporting Club de l'Ouest,ligue-1,3,270.0,2,1.3,0.7,0.3,4.3,1.3,1,-,6.42
+938146,27,Adam,Aznou,Adam Aznou,Defender,Left-Back,18,1500000,FC Bayern München,bundesliga,0(1),10.0,-,-,-,1,-,-,-,-,6.05
+143559,1244,Matija,Nastasic,Matija Nastasic,Defender,Centre-Back,31,1500000,Club Deportivo Leganés S.A.D.,laliga,10(2),977.0,1.1,0.9,0.8,0.2,6.4,0.4,1.4,-,6.52
+154147,35,Hauke,Wahl,Hauke Wahl,Defender,Centre-Back,30,1500000,Fußball-Club St. Pauli von 1910,bundesliga,14,1260.0,1.3,0.8,0.2,0.6,3.5,0.3,0.5,-,6.44
+337092,2036,Tim,Siersleben,Tim Siersleben,Defender,Centre-Back,24,1500000,1. Fußballclub Heidenheim 1846,bundesliga,2(1),145.0,0.7,0.3,0.7,-,3,-,0.3,-,6.12
+76467,1050,Kiko,Femenía,Kiko Femenía,Defender,Right-Back,33,1400000,Villarreal Club de Fútbol S.A.D.,laliga,15,1284.0,1.9,1.5,0.7,0.1,1.7,1,0.5,-,6.67
+88680,2919,Luca,Caldirola,Luca Caldirola,Defender,Centre-Back,33,1300000,Associazione Calcio Monza,serie-a,5(1),401.0,0.8,0.3,1.7,0.3,2.7,0.5,0.7,-,6.34
+139304,35,Karol,Mets,Karol Mets,Defender,Centre-Back,31,1300000,Fußball-Club St. Pauli von 1910,bundesliga,10,900.0,1.3,1.2,0.7,0.3,5.9,0.3,0.3,-,6.73
+875332,533,Arthur,Chaves,Arthur Chaves,Defender,Centre-Back,23,1200000,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,bundesliga,6(2),608.0,1.5,1.1,0.9,0.5,3.6,0.6,0.4,-,6.59
+161869,415,Djibril,Sidibé,Djibril Sidibé,Defender,Right-Back,32,1200000,Toulouse Football Club,ligue-1,11(3),999.0,2.5,1.0,0.9,0.1,1.9,0.8,0.1,-,6.87
+206717,667,Eduard,Sobol,Eduard Sobol,Defender,Left-Back,29,1200000,Racing Club de Strasbourg Alsace,ligue-1,0(2),32.0,-,-,0.5,-,1,-,-,-,6.05
+117478,2036,Marnon,Busch,Marnon Busch,Defender,Right-Back,30,1200000,1. Fußballclub Heidenheim 1846,bundesliga,5(2),425.0,1.1,0.7,0.7,0.1,2.6,0.4,0.7,-,6.41
+282169,607,Marin,Šverko,Marin Šverko,Defender,Centre-Back,26,1200000,Venezia Football Club,serie-a,,,,,,,,,,,
+545647,940,Sergio,Carreira,Sergio Carreira,Defender,Right-Back,24,1200000,Real Club Celta de Vigo S. A. D.,laliga,3(1),239.0,1.5,0.3,0.5,-,1.8,0.5,-,-,6.49
+192492,1420,Jordan,Lefort,Jordan Lefort,Defender,Centre-Back,31,1200000,Angers Sporting Club de l'Ouest,ligue-1,15,1350.0,1.7,1,0.5,-,4.9,0.7,0.8,-,6.56
+570817,1421,Maxime,Busi,Maxime Busi,Defender,Right-Back,25,1200000,Stade de Reims,ligue-1,,,,,,,,,,,
+197122,331,Unai,García,Unai García,Defender,Centre-Back,32,1200000,Club Atlético Osasuna,laliga,,,,,,,,,,,
+510396,472,Alex,Suárez,Alex Suárez,Defender,Centre-Back,31,1200000,Unión Deportiva Las Palmas S.A.D.,laliga,,,,,,,,,,,
+102423,714,Leandro,Cabrera,Leandro Cabrera,Defender,Centre-Back,33,1200000,Reial Club Deportiu Espanyol de Barcelona S.A.D.,laliga,12(1),1081.0,1.6,1.2,0.6,0.4,4.8,0.5,0.5,-,6.63
+146509,677,Conor,Townsend,Conor Townsend,Defender,Left-Back,31,1200000,Ipswich Town Football Club,premier-league,0(1),1.0,1,-,-,-,-,-,-,-,6.0
+165873,1047,Federico,Barba,Federico Barba,Defender,Centre-Back,31,1200000,Calcio Como,serie-a,5(1),415.0,0.2,0.7,0.5,1,2.3,0.5,0.3,-,6.23
+243760,472,Álex,Muñoz,Álex Muñoz,Defender,Left-Back,30,1200000,Unión Deportiva Las Palmas S.A.D.,laliga,11(1),924.0,2.3,1.2,1.5,0.3,3.4,0.8,0.6,-,6.85
+351843,738,Yoann,Salmier,Yoann Salmier,Defender,Centre-Back,32,1200000,Le Havre Athletic Club,ligue-1,8(1),691.0,1.2,0.7,0.8,0.3,5.4,0.1,0.8,-,6.47
+242940,1047,Edoardo,Goldaniga,Edoardo Goldaniga,Defender,Centre-Back,31,1200000,Calcio Como,serie-a,9(4),854.0,1.1,0.7,0.8,0.1,2.6,0.1,0.2,-,6.32
+392570,1047,Marco,Sala,Marco Sala,Defender,Left-Back,25,1100000,Calcio Como,serie-a,3(5),259.0,1.1,0.1,0.6,0.1,1,0.4,-,-,6.05
+1176345,273,Mahamadou,Nagida,Mahamadou Nagida,Defender,Left-Back,19,1000000,Stade Rennais Football Club,ligue-1,3(5),323.0,0.8,1,0.6,-,0.6,-,-,-,6.48
+1146029,472,Juanma,Herzog,Juanma Herzog,Defender,Centre-Back,20,1000000,Unión Deportiva Las Palmas S.A.D.,laliga,,,,,,,,,,,
+988272,667,Yoni,Gomis,Yoni Gomis,Defender,Centre-Back,19,1000000,Racing Club de Strasbourg Alsace,ligue-1,,,,,,,,,,,
+863759,60,Bruno,Ogbus,Bruno Ogbus,Defender,Centre-Back,19,1000000,Sport-Club Freiburg,bundesliga,0(2),17.0,0.5,0.5,0.5,-,0.5,0.5,-,-,6.13
+805886,1005,Gaby,Jean,Gaby Jean,Defender,Centre-Back,24,1000000,Unione Sportiva Lecce,serie-a,2(3),208.0,0.4,-,0.2,-,2.2,0.2,0.6,-,6.24
+884820,16,Almugera,Kabar,Almugera Kabar,Defender,Left-Back,18,1000000,Borussia Dortmund,bundesliga,0(3),46.0,0.7,0.3,0.7,-,0.3,-,-,-,5.8
+857832,366,David,Torres,David Torres,Defender,Centre-Back,21,1000000,Real Valladolid Club de Fútbol S.A.D.,laliga,7(2),696.0,0.6,0.2,0.9,0.3,3.4,0.2,1,1,6.18
+818880,1025,Tommaso,Corazza,Tommaso Corazza,Defender,Left-Back,20,1000000,Bologna Football Club 1909,serie-a,,,,,,,,,,,
+962125,12,Buba,Sangaré,Buba Sangaré,Defender,Right-Back,17,1000000,Associazione Sportiva Roma,serie-a,,,,,,,,,,,
+1058354,410,Matteo,Palma,Matteo Palma,Defender,Centre-Back,16,1000000,Udinese Calcio,serie-a,,,,,,,,,,,
+412829,618,Léo,Pétrot,Léo Pétrot,Defender,Left-Back,27,1000000,Association sportive de Saint-Étienne Loire,ligue-1,10(2),949.0,2.9,1.6,0.7,0.2,2.8,0.3,0.6,-,6.66
+684315,24,Nnamdi,Collins,Nnamdi Collins,Defender,Centre-Back,20,1000000,Eintracht Frankfurt Fußball AG,bundesliga,3(2),280.0,1.2,0.6,1,0.2,2.4,-,0.8,-,6.75
+81512,410,Christian,Kabasele,Christian Kabasele,Defender,Centre-Back,33,1000000,Udinese Calcio,serie-a,7(3),653.0,0.9,0.7,0.9,0.2,2.4,0.1,0.2,-,6.61
+88682,749,Mattia,De Sciglio,Mattia De Sciglio,Defender,Right-Back,32,1000000,Empoli Football Club S.r.l.,serie-a,,,,,,,,,,,
+310527,1390,Paulo,Azzi,Paulo Azzi,Defender,Left-Back,30,1000000,Cagliari Calcio,serie-a,5(1),428.0,1.8,0.8,0.8,0.2,1.8,0.7,0.3,-,6.76
+136514,1025,Charalampos,Lykogiannis,Charalampos Lykogiannis,Defender,Left-Back,31,1000000,Bologna Football Club 1909,serie-a,5(1),419.0,0.8,0.5,0.7,0.2,1.7,0.7,0.2,-,6.62
+92947,714,Sergi,Gómez,Sergi Gómez,Defender,Centre-Back,32,1000000,Reial Club Deportiu Espanyol de Barcelona S.A.D.,laliga,6(5),651.0,0.7,0.6,0.5,0.4,3.3,0.1,0.7,-,6.26
+536156,618,Pierre,Cornud,Pierre Cornud,Defender,Left-Back,28,1000000,Association sportive de Saint-Étienne Loire,ligue-1,5(2),377.0,1.1,0.7,0.9,0.1,1.6,0.6,0.1,-,6.03
+99922,150,Marc,Bartra,Marc Bartra,Defender,Centre-Back,33,1000000,Real Betis Balompié S.A.D.,laliga,9(1),838.0,1.1,2.0,0.3,1.1,5.1,0.2,0.7,-,7.03
+271455,940,Mihailo,Ristic,Mihailo Ristic,Defender,Left-Back,29,1000000,Real Club Celta de Vigo S. A. D.,laliga,2(2),129.0,0.8,-,1.0,0.3,1,0.3,-,-,6.23
+601143,39,Nikolas,Veratschnig,Nikolas Veratschnig,Defender,Right-Back,21,1000000,1. Fußball- und Sportverein Mainz 05,bundesliga,0(4),6.0,-,-,0.3,-,-,-,-,-,6.0
+471890,269,Max,Geschwill,Max Geschwill,Defender,Centre-Back,23,1000000,Kieler Sportvereinigung Holstein von 1900,bundesliga,10(2),928.0,1.8,1.8,1,0.3,2.5,0.4,0.6,-,6.57
+251896,418,Jesús,Vallejo,Jesús Vallejo,Defender,Centre-Back,27,1000000,Real Madrid Club de Fútbol,laliga,0(1),10.0,-,-,-,-,1,-,-,-,5.89
+268506,3709,Fabrizio,Angileri,Fabrizio Angileri,Defender,Left-Back,30,1000000,Getafe Club de Fútbol S.A.D. Team Dubai,laliga,,,,,,,,,,,
+744074,1082,Rafael,Fernandes,Rafael Fernandes,Defender,Centre-Back,22,1000000,Lille Olympique Sporting Club,ligue-1,,,,,,,,,,,
+741258,131,Sergi,Domínguez,Sergi Domínguez,Defender,Centre-Back,19,1000000,Futbol Club Barcelona,laliga,2(1),173.0,0.3,1,0.7,2,2.3,-,-,-,6.13
+215099,472,Daley,Sinkgraven,Daley Sinkgraven,Defender,Left-Back,29,1000000,Unión Deportiva Las Palmas S.A.D.,laliga,1(1),91.0,2.5,0.5,1.0,-,0.5,1.0,-,-,6.41
+61841,989,Adam,Smith,Adam Smith,Defender,Right-Back,33,1000000,Association Football Club Bournemouth,premier-league,11(5),995.0,1.0,0.7,0.4,0.1,1.8,0.5,0.1,-,6.35
+257376,3709,Domingos,Duarte,Domingos Duarte,Defender,Centre-Back,29,1000000,Getafe Club de Fútbol S.A.D. Team Dubai,laliga,3(1),271.0,0.8,0.8,1.5,0.5,2.5,-,0.3,-,6.24
+58995,86,Anthony,Jung,Anthony Jung,Defender,Centre-Back,33,1000000,Sportverein Werder Bremen von 1899,bundesliga,9(4),844.0,0.9,1.1,0.2,0.5,2.5,0.3,0.2,-,6.57
+55769,2919,Danilo,D'Ambrosio,Danilo D'Ambrosio,Defender,Centre-Back,36,1000000,Associazione Calcio Monza,serie-a,1(8),207.0,1,0.2,0.7,-,0.3,0.4,0.2,-,6.18
+216872,607,Francesco,Zampano,Francesco Zampano,Defender,Left-Back,31,900000,Venezia Football Club,serie-a,12(3),1169.0,1.5,0.3,1.1,0.1,1.1,0.8,-,-,6.26
+228444,607,Ridgeciano,Haps,Ridgeciano Haps,Defender,Left-Back,31,900000,Venezia Football Club,serie-a,8(3),684.0,1.3,0.2,0.5,-,1.4,0.4,0.1,-,6.23
+335631,269,Marco,Komenda,Marco Komenda,Defender,Centre-Back,28,900000,Kieler Sportvereinigung Holstein von 1900,bundesliga,3(2),198.0,1.2,-,0.6,0.4,2,-,0.2,-,6.16
+333903,35,Lars,Ritzka,Lars Ritzka,Defender,Left-Back,26,900000,Fußball-Club St. Pauli von 1910,bundesliga,4(5),378.0,3.1,0.4,0.3,0.1,1.1,1,-,-,6.38
+982393,969,Lucas,Mincarelli,Lucas Mincarelli,Defender,Left-Back,20,900000,Montpellier Hérault Sport Club,ligue-1,3(1),253.0,1,0.3,1,-,2,1,0.3,-,6.15
+92572,873,Joel,Ward,Joel Ward,Defender,Right-Back,35,900000,Crystal Palace Football Club,premier-league,,,,,,,,,,,
+745202,276,Yllan,Okou,Yllan Okou,Defender,Centre-Back,22,900000,Verona Hellas Football Club,serie-a,0(1),1.0,-,-,-,-,-,-,-,-,5.99
+111038,618,Dennis,Appiah,Dennis Appiah,Defender,Right-Back,32,900000,Association sportive de Saint-Étienne Loire,ligue-1,10(4),1016.0,2.1,0.7,1.1,0.2,2.0,1.1,0.4,-,6.41
+74810,1148,Ben,Mee,Ben Mee,Defender,Centre-Back,35,900000,Brentford Football Club,premier-league,0(3),7.0,0.3,0.3,-,-,0.3,-,0.3,-,6.12
+731491,607,Franco,Carboni,Franco Carboni,Defender,Left-Back,21,900000,Venezia Football Club,serie-a,0(2),7.0,-,-,-,-,-,-,-,-,6.19
+436064,79,Ramon,Hendriks,Ramon Hendriks,Defender,Centre-Back,23,800000,Verein für Bewegungsspiele Stuttgart 1893,bundesliga,1(8),176.0,0.3,0.8,-,0.3,1.2,0.1,-,-,6.25
+451906,35,David,Nemeth,David Nemeth,Defender,Centre-Back,23,800000,Fußball-Club St. Pauli von 1910,bundesliga,4,359.0,1.5,0.5,0.8,0.5,2.3,1,0.5,-,6.5
+265209,80,Noah,Loosli,Noah Loosli,Defender,Centre-Back,27,800000,Verein für Leibesübungen Bochum 1848 Fußballgemeinschaft,bundesliga,,,,,,,,,,,
+388513,237,Mateu,Morey,Mateu Morey,Defender,Right-Back,24,800000,Real Club Deportivo Mallorca S.A.D.,laliga,4(1),266.0,1.2,1.6,1.6,-,1.6,1,-,-,6.2
+190338,618,Anthony,Briançon,Anthony Briançon,Defender,Centre-Back,30,800000,Association sportive de Saint-Étienne Loire,ligue-1,,,,,,,,,,,
+958647,415,Ümit,Akdağ,Ümit Akdağ,Defender,Centre-Back,21,800000,Toulouse Football Club,ligue-1,,,,,,,,,,,
+122840,738,Loïc,Nego,Loïc Nego,Defender,Right-Back,33,800000,Le Havre Athletic Club,ligue-1,9(3),786.0,1.6,1.2,0.8,0.2,1.5,0.7,-,-,6.42
+970279,1420,Jacques,Ekomié,Jacques Ekomié,Defender,Left-Back,21,800000,Angers Sporting Club de l'Ouest,ligue-1,3(5),290.0,1,0.3,0.4,-,1,0.4,0.1,-,6.14
+537127,969,Théo,Sainte-Luce,Théo Sainte-Luce,Defender,Left-Back,26,800000,Montpellier Hérault Sport Club,ligue-1,0(1),16.0,-,-,-,-,-,-,-,-,6.74
+238716,290,Théo,Pellenard,Théo Pellenard,Defender,Centre-Back,30,800000,Association de la Jeunesse auxerroise,ligue-1,0(2),43.0,1.5,-,2.0,0.5,1.5,1,-,-,6.29
+648032,410,James,Abankwah,James Abankwah,Defender,Centre-Back,20,800000,Udinese Calcio,serie-a,0(4),22.0,-,0.3,0.3,-,0.5,-,-,-,6.07
+85906,39,Danny,da Costa,Danny da Costa,Defender,Right-Back,31,800000,1. Fußball- und Sportverein Mainz 05,bundesliga,,,,,,,,,,,
+82350,39,Stefan,Bell,Stefan Bell,Defender,Centre-Back,33,800000,1. Fußball- und Sportverein Mainz 05,bundesliga,7(2),703.0,1,2,1.7,0.2,5,0.3,0.7,-,7.1
+170961,667,Thomas,Delaine,Thomas Delaine,Defender,Left-Back,32,800000,Racing Club de Strasbourg Alsace,ligue-1,,,,,,,,,,,
+787151,18,Lukas,Ullrich,Lukas Ullrich,Defender,Left-Back,20,750000,Borussia Verein für Leibesübungen 1900 Mönchengladbach,bundesliga,6,465.0,0.3,1.2,1.3,0.2,2.3,0.8,0.5,-,6.7
+225043,269,Carl,Johansson,Carl Johansson,Defender,Centre-Back,30,700000,Kieler Sportvereinigung Holstein von 1900,bundesliga,4,348.0,1.0,1.5,0.5,0.3,5.8,0.8,1.5,-,6.31
+92571,379,Aaron,Cresswell,Aaron Cresswell,Defender,Left-Back,35,700000,West Ham United Football Club,premier-league,0(5),28.0,0.2,-,0.2,-,0.6,-,-,-,6.09
+829874,1420,Lilian,Raolisoa,Lilian Raolisoa,Defender,Right-Back,24,700000,Angers Sporting Club de l'Ouest,ligue-1,2(9),221.0,0.5,0.2,0.6,-,0.4,0.5,0.1,-,6.25
+314295,167,Reece,Oxford,Reece Oxford,Defender,Centre-Back,26,700000,Fußball-Club Augsburg 1907,bundesliga,,,,,,,,,,,
+125020,1390,José Luis,Palomino,José Luis Palomino,Defender,Centre-Back,34,700000,Cagliari Calcio,serie-a,,,,,,,,,,,
+189340,130,Gianluca,Di Chiara,Gianluca Di Chiara,Defender,Left-Back,31,700000,Parma Calcio 1913,serie-a,,,,,,,,,,,
+236966,35,Adam,Dzwigala,Adam Dzwigala,Defender,Centre-Back,29,600000,Fußball-Club St. Pauli von 1910,bundesliga,0(8),97.0,1.1,-,0.3,0.1,0.6,0.3,-,-,6.14
+75921,89,Christopher,Trimmel,Christopher Trimmel,Defender,Right-Back,37,600000,1. Fußballclub Union Berlin,bundesliga,8(2),722.0,1.9,0.5,0.6,-,2.5,0.9,0.1,-,6.7
+1075579,82,Mathys,Angély,Mathys Angély,Defender,Centre-Back,17,600000,Verein für Leibesübungen Wolfsburg,bundesliga,,,,,,,,,,,
+709767,1148,Ji-soo,Kim,Ji-soo Kim,Defender,Centre-Back,20,600000,Brentford Football Club,premier-league,,,,,,,,,,,
+691841,738,Yanis,Zouaoui,Yanis Zouaoui,Defender,Left-Back,26,600000,Le Havre Athletic Club,ligue-1,3(2),233.0,0.8,0.4,1,-,0.4,-,-,-,6.91
+908621,3709,Nabil,Aberdin,Nabil Aberdin,Defender,Centre-Back,22,600000,Getafe Club de Fútbol S.A.D. Team Dubai,laliga,4(3),263.0,0.9,-,1.0,-,0.7,-,-,-,6.32
+587019,35,Fin,Stevens,Fin Stevens,Defender,Right-Back,21,600000,Fußball-Club St. Pauli von 1910,bundesliga,,,,,,,,,,,
+283127,738,Oualid,El Hajjam,Oualid El Hajjam,Defender,Right-Back,33,600000,Le Havre Athletic Club,ligue-1,,,,,,,,,,,
+610608,269,Dominik,Javorcek,Dominik Javorcek,Defender,Left-Back,22,550000,Kieler Sportvereinigung Holstein von 1900,bundesliga,1(2),77.0,0.3,0.7,0.3,-,1.3,0.3,0.3,-,5.64
+644613,15,Sadik,Fofana,Sadik Fofana,Defender,Centre-Back,21,500000,Bayer 04 Leverkusen Fußball,bundesliga,,,,,,,,,,,
+199704,618,Yunis,Abdelhamid,Yunis Abdelhamid,Defender,Centre-Back,37,500000,Association sportive de Saint-Étienne Loire,ligue-1,11,938.0,1.5,1.1,1.5,0.6,4.8,0.5,1.4,-,6.37
+82503,367,Aridane,Hernández,Aridane Hernández,Defender,Centre-Back,35,500000,Rayo Vallecano de Madrid S.A.D.,laliga,1(2),113.0,0.7,0.7,-,-,3,-,-,1,6.21
+111508,3709,Allan,Nyom,Allan Nyom,Defender,Right-Back,36,500000,Getafe Club de Fútbol S.A.D. Team Dubai,laliga,6(2),515.0,1.1,0.3,1.8,0.1,1.4,0.3,0.1,-,6.51
+1144999,3911,Luck,Zogbé,Luck Zogbé,Defender,Right-Back,19,500000,Stade brestois 29,ligue-1,4(3),308.0,1.7,0.6,0.7,-,1.1,0.6,-,-,6.47
+14086,29,Ashley,Young,Ashley Young,Defender,Left-Back,39,500000,Everton Football Club,premier-league,13,1129.0,3.0,1.2,1.1,0.4,2.8,0.8,0.2,-,6.91
+512352,269,Lasse,Rosenboom,Lasse Rosenboom,Defender,Right-Back,22,500000,Kieler Sportvereinigung Holstein von 1900,bundesliga,3(5),391.0,1.3,1,0.6,0.3,1.3,0.4,0.1,-,6.24
+556865,290,Saad,Agouzoul,Saad Agouzoul,Defender,Centre-Back,27,500000,Association de la Jeunesse auxerroise,ligue-1,,,,,,,,,,,
+139279,995,Nicolas,Pallois,Nicolas Pallois,Defender,Centre-Back,37,500000,Football Club de Nantes,ligue-1,9(1),811.0,2.2,1.2,0.9,0.3,5.7,1,0.4,1,6.5
+121686,80,Cristian,Gamboa,Cristian Gamboa,Defender,Right-Back,35,500000,Verein für Leibesübungen Bochum 1848 Fußballgemeinschaft,bundesliga,0(5),117.0,0.2,-,-,0.4,0.4,0.2,-,-,6.24
+895458,1108,Adrián,Pica,Adrián Pica,Defender,Centre-Back,22,500000,Deportivo Alavés S.A.D.,laliga,4(2),402.0,1.2,1.2,0.8,0.8,2.8,0.8,0.8,-,6.62
+744729,27,Tarek,Buchmann,Tarek Buchmann,Defender,Centre-Back,19,500000,FC Bayern München,bundesliga,,,,,,,,,,,
+1130445,1421,Abdoul,Koné,Abdoul Koné,Defender,Centre-Back,19,500000,Stade de Reims,ligue-1,1(1),110.0,2.5,0.5,1,-,2,1,0.5,-,6.46
+1121298,366,Juma,Bah,Juma Bah,Defender,Centre-Back,18,500000,Real Valladolid Club de Fútbol S.A.D.,laliga,7(2),639.0,0.8,0.8,0.6,0.6,5.2,0.2,0.8,-,6.77
+49723,24,Timothy,Chandler,Timothy Chandler,Defender,Right-Back,34,500000,Eintracht Frankfurt Fußball AG,bundesliga,0(1),17.0,-,3,-,-,-,-,-,-,6.62
+925584,410,Axel,Guessand,Axel Guessand,Defender,Centre-Back,20,500000,Udinese Calcio,serie-a,,,,,,,,,,,
+692208,367,Pelayo,Fernández,Pelayo Fernández,Defender,Centre-Back,21,500000,Rayo Vallecano de Madrid S.A.D.,laliga,,,,,,,,,,,
+804711,1420,Ousmane,Camara,Ousmane Camara,Defender,Centre-Back,21,500000,Angers Sporting Club de l'Ouest,ligue-1,,,,,,,,,,,
+68390,29,Séamus,Coleman,Séamus Coleman,Defender,Right-Back,36,500000,Everton Football Club,premier-league,1,90.0,1,-,-,1,1,1,1,-,6.29
+515624,167,Henri,Koudossou,Henri Koudossou,Defender,Right-Back,25,450000,Fußball-Club Augsburg 1907,bundesliga,2(8),336.0,0.7,0.5,0.1,0.1,1.7,0.3,0.2,-,6.31
+645686,405,Lamare,Bogarde,Lamare Bogarde,Defender,Centre-Back,20,450000,Aston Villa Football Club,premier-league,3,215.0,2.7,0.3,1.7,0.3,1.0,1.3,-,-,6.42
+124715,969,Nikola,Maksimović,Nikola Maksimović,Defender,Centre-Back,33,400000,Montpellier Hérault Sport Club,ligue-1,,,,,,,,,,,
+33571,1025,Lorenzo,De Silvestri,Lorenzo De Silvestri,Defender,Right-Back,36,400000,Bologna Football Club 1909,serie-a,,,,,,,,,,,
+237499,1108,Aleksandar,Sedlar,Aleksandar Sedlar,Defender,Centre-Back,33,400000,Deportivo Alavés S.A.D.,laliga,5(1),415.0,2.5,1.2,1.2,0.7,1.2,0.3,0.2,-,6.33
+485747,2036,Thomas,Keller,Thomas Keller,Defender,Centre-Back,25,350000,1. Fußballclub Heidenheim 1846,bundesliga,,,,,,,,,,,
+62351,1420,Abdoulaye,Bamba,Abdoulaye Bamba,Defender,Centre-Back,34,350000,Angers Sporting Club de l'Ouest,ligue-1,7(1),611.0,1.5,0.9,0.4,0.4,3.9,0.3,0.4,-,6.39
+111811,1420,Florent,Hanin,Florent Hanin,Defender,Left-Back,34,350000,Angers Sporting Club de l'Ouest,ligue-1,12(2),1057.0,2.0,1.5,0.3,0.1,1.9,0.9,0.1,-,6.69
+1000828,826,Sidi,Bane,Sidi Bane,Defender,Centre-Back,20,300000,Racing Club de Lens,ligue-1,,,,,,,,,,,
+1075574,417,Amidou,Doumbouya,Amidou Doumbouya,Defender,Centre-Back,17,300000,Olympique Gymnaste Club Nice Côte d'Azur,ligue-1,0(2),44.0,0.5,0.5,-,0.5,-,-,0.5,-,6.26
+935245,418,Raúl,Asencio,Raúl Asencio,Defender,Centre-Back,21,300000,Real Madrid Club de Fútbol,laliga,,,,,,,,,,,
+900601,762,Alex,Murphy,Alex Murphy,Defender,Left-Back,20,250000,Newcastle United Football Club,premier-league,,,,,,,,,,,
+1118086,1005,Sebastian,Esposito,Sebastian Esposito,Defender,Centre-Back,19,200000,Unione Sportiva Lecce,serie-a,,,,,,,,,,,
+813730,80,Mohammed,Tolba,Mohammed Tolba,Defender,Centre-Back,20,200000,Verein für Leibesübungen Bochum 1848 Fußballgemeinschaft,bundesliga,,,,,,,,,,,
+1059298,416,Côme,Bianay Balcot,Côme Bianay Balcot,Defender,Centre-Back,19,200000,Torino Calcio,serie-a,,,,,,,,,,,
+422986,1420,Halid,Sabanovic,Halid Sabanovic,Defender,Right-Back,25,200000,Angers Sporting Club de l'Ouest,ligue-1,,,,,,,,,,,
+1004723,1047,Fellipe,Jack,Fellipe Jack,Defender,Centre-Back,18,200000,Calcio Como,serie-a,0(1),12.0,-,1,-,-,2,-,1,-,6.49
+990732,1082,Ousmane,Touré,Ousmane Touré,Defender,Centre-Back,19,200000,Lille Olympique Sporting Club,ligue-1,0(1),5.0,-,1,-,-,2,-,-,-,6.2
+814446,749,Luca,Marianucci,Luca Marianucci,Defender,Centre-Back,20,175000,Empoli Football Club S.r.l.,serie-a,0(3),33.0,0.7,-,0.3,-,1.0,0.7,-,-,6.25
+923945,167,Noahkai,Banks,Noahkai Banks,Defender,Centre-Back,18,150000,Fußball-Club Augsburg 1907,bundesliga,,,,,,,,,,,
+914890,35,Muhammad,Dahaba,Muhammad Dahaba,Defender,Centre-Back,19,125000,Fußball-Club St. Pauli von 1910,bundesliga,,,,,,,,,,,
+802987,1041,Irvyn,Lomami,Irvyn Lomami,Defender,Right-Back,21,100000,Olympique Lyonnais,ligue-1,,,,,,,,,,,
+565846,1237,Imari,Samuels,Imari Samuels,Defender,Left-Back,21,100000,Brighton and Hove Albion Football Club,premier-league,,,,,,,,,,,
+855215,290,Ange Loïc,N'Gatta,Ange Loïc N'Gatta,Defender,Right-Back,21,100000,Association de la Jeunesse auxerroise,ligue-1,,,,,,,,,,,
