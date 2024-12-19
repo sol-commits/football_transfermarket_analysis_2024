@@ -124,3 +124,23 @@ dmypy.json
 .pyre/
 
 .DS_Store
+
+data/archive/appearances.csv
+
+data/archive/club_games.csv
+
+data/archive/clubs.csv
+
+data/archive/competitions.csv
+
+data/archive/game_events.csv
+
+data/archive/game_lineups.csv
+
+data/archive/games.csv
+
+data/archive/player_valuations.csv
+
+data/archive/players.csv
+
+data/archive/transfers.csv
